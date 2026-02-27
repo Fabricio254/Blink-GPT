@@ -119,7 +119,7 @@ def setup_page():
         page_title="Blink GPT",
         page_icon="🤖",
         layout="wide",
-        initial_sidebar_state="expanded"
+        initial_sidebar_state="auto"
     )
     
     # CSS customizado com cores da Blink
@@ -240,6 +240,54 @@ def setup_page():
         color: white;
         font-size: 2em;
         font-weight: bold;
+    }}
+
+    /* ===== RESPONSIVO MOBILE ===== */
+    @media (max-width: 768px) {{
+
+        /* Evitar rolagem horizontal */
+        [data-testid="stAppViewContainer"] {{
+            overflow-x: hidden;
+        }}
+
+        /* Bloco principal ocupa tela toda */
+        [data-testid="stMain"] > div:first-child {{
+            padding-left: 0.5rem !important;
+            padding-right: 0.5rem !important;
+        }}
+
+        /* Mensagens ocupam largura total */
+        .user-message, .assistant-message {{
+            max-width: 100% !important;
+        }}
+
+        /* Botões maiores para toque */
+        .stButton > button {{
+            font-size: 1em !important;
+            padding: 12px 8px !important;
+            min-height: 48px;
+        }}
+
+        /* Input maior para toque */
+        .stTextInput > div > div > input {{
+            font-size: 1em !important;
+            padding: 12px !important;
+            min-height: 48px;
+        }}
+
+        /* Colunas de botão empilhadas no mobile */
+        [data-testid="stHorizontalBlock"] > div {{
+            min-width: 0 !important;
+        }}
+
+        /* Fonte dos subtítulos menor no mobile */
+        h3 {{ font-size: 1em !important; }}
+        h2 {{ font-size: 1.2em !important; }}
+
+        /* Banner header menor */
+        [data-testid="stMarkdownContainer"] div[style*="gradient"] {{
+            padding: 6px 10px !important;
+        }}
     }}
     </style>
     """, unsafe_allow_html=True)

@@ -1,0 +1,1611 @@
+{
+  "version": "2.0",
+  "last_updated": "2026-02-27",
+  "total_questions": 126,
+  "topics": {
+    "🏢 Quem Somos": {
+      "count": 17,
+      "questions": [
+        {
+          "id": 1,
+          "topic": "🏢 Quem Somos",
+          "question": "O que é a Blink Jeans ?",
+          "answer": "A Blink Jeans é uma rede de Lojas de Roupas e Uniformes que atua na Grande Vitória e dois municípios da Bahia. É referência em qualidade e bom atendimento, oferecendo roupas e uniformes com foco na excelência do atendimento ao cliente."
+        },
+        {
+          "id": 2,
+          "topic": "🏢 Quem Somos",
+          "question": "Quando a Blink Jeans foi fundada ?",
+          "answer": "A Blink Jeans foi fundada em 1976, através de uma visão audaciosa de seus fundadores, iniciativa que deu origem a esta grande rede de lojas de roupas e uniformes."
+        },
+        {
+          "id": 3,
+          "topic": "🏢 Quem Somos",
+          "question": "Quantas lojas a Blink possui ?",
+          "answer": "A Blink Jeans possui 08 unidades espalhadas pelo Espírito Santo e Bahia, resultado do crescimento da empresa desde sua fundação em 1976."
+        },
+        {
+          "id": 4,
+          "topic": "🏢 Quem Somos",
+          "question": "Onde estão localizadas as lojas da Blink ?",
+          "answer": "As lojas da Blink Jeans estão localizadas na Grande Vitória (Espírito Santo) e em dois municípios da Bahia, totalizando 08 unidades estrategicamente posicionadas."
+        },
+        {
+          "id": 5,
+          "topic": "🏢 Quem Somos",
+          "question": "A Blink tem loja online ?",
+          "answer": "Sim! Além das lojas físicas, a Blink Jeans conta com uma loja virtual onde você pode realizar suas compras online de maneira prática e rápida."
+        },
+        {
+          "id": 6,
+          "topic": "🏢 Quem Somos",
+          "question": "Qual a história da empresa ?",
+          "answer": "A história da Blink Jeans teve início em 1976, através de uma visão audaciosa de seus fundadores. A empresa não tardou para cair no gosto e preferência dos capixabas e de todos os brasileiros, que ficam satisfeitos com a qualidade e atendimento oferecidos."
+        },
+        {
+          "id": 7,
+          "topic": "🏢 Quem Somos",
+          "question": "Quais são os valores da Blink Jeans ?",
+          "answer": "Os valores da Blink Jeans são: RESPEITO, RESPONSABILIDADE, EVOLUÇÃO PERMANENTE, COMPETITIVIDADE e SUCESSO. Estes valores norteiam todas as ações e decisões da empresa."
+        },
+        {
+          "id": 8,
+          "topic": "🏢 Quem Somos",
+          "question": "Qual a missão da Blink Jeans ?",
+          "answer": "A missão da Blink Jeans é trazer ótimas opções em estilo casual, evangélico, feminino, masculino e plus size, além de fornecer uniformes escolares e empresariais com qualidade, durabilidade e preço justo."
+        },
+        {
+          "id": 9,
+          "topic": "🏢 Quem Somos",
+          "question": "Qual a visão da empresa para 2026 ?",
+          "answer": "Até 2026 a Blink se consolidará como referência em vestuário e uniformes profissionais, primando pela qualidade, impulsionando a inovação e cultivando o compromisso de excelência no atendimento aos clientes e aos colaboradores."
+        },
+        {
+          "id": 10,
+          "topic": "🏢 Quem Somos",
+          "question": "O que a empresa vende ?",
+          "answer": "A Blink Jeans oferece ótimas opções em estilo casual, evangélico, feminino, masculino e plus size. Também fornece uniformes escolares e empresariais com qualidade, durabilidade e preço justo."
+        },
+        {
+          "id": 11,
+          "topic": "🏢 Quem Somos",
+          "question": "Como a Blink trabalha com organização ?",
+          "answer": "A Blink busca realizar as melhores práticas do mercado, desenvolvendo e aprimorando o manual de procedimentos que visa padronizar todos os processos, atividades e rotinas, a fim de trazer mais velocidade nas ações e principalmente atender melhor clientes e colaboradores."
+        },
+        {
+          "id": 12,
+          "topic": "🏢 Quem Somos",
+          "question": "Como a empresa pratica inovação ?",
+          "answer": "A Blink está em um contínuo processo de renovação dos conceitos e ideais, sendo uma empresa inovadora em seus produtos, serviços, e jeito de lidar com o mercado. A empresa se adapta em vários cenários e está sempre atenta às opiniões de colaboradores e clientes para melhorar constantemente."
+        },
+        {
+          "id": 13,
+          "topic": "🏢 Quem Somos",
+          "question": "Como a Blink pratica ética nos negócios ?",
+          "answer": "A Blink acredita que ser uma empresa ética e transparente é a melhor maneira de gerir os negócios. Para a empresa, isso não é apenas uma atitude, mas um modelo de gestão."
+        },
+        {
+          "id": 14,
+          "topic": "🏢 Quem Somos",
+          "question": "Como a empresa garante qualidade ?",
+          "answer": "A qualidade está no DNA da Blink Jeans. A empresa oferece somente produtos e serviços com altos níveis de qualidade e com preços coerentemente cobrados."
+        },
+        {
+          "id": 15,
+          "topic": "🏢 Quem Somos",
+          "question": "Quais tipos de roupas a Blink oferece ?",
+          "answer": "A Blink oferece roupas em diversos estilos: casual, evangélico, feminino, masculino e plus size, atendendo a diferentes perfis e necessidades dos clientes."
+        },
+        {
+          "id": 16,
+          "topic": "🏢 Quem Somos",
+          "question": "A Blink vende uniformes ?",
+          "answer": "Sim! A Blink fornece uniformes escolares e empresariais com qualidade, durabilidade e preço justo, sendo uma das especialidades da empresa."
+        },
+        {
+          "id": 17,
+          "topic": "🏢 Quem Somos",
+          "question": "Como a empresa chegará aos seus objetivos ?",
+          "answer": "A Blink chegará aos seus objetivos através dos valores: Respeito, Responsabilidade, Evolução Permanente, Competitividade e Sucesso, sempre focando na excelência do atendimento e qualidade dos produtos."
+        }
+      ]
+    },
+    "💳 I. Formas de Pagamento": {
+      "count": 9,
+      "questions": [
+        {
+          "id": 18,
+          "topic": "💳 I. Formas de Pagamento",
+          "question": "Quais são as formas de pagamento aceitas ?",
+          "answer": "As formas de pagamento aceitas são: DINHEIRO (pagamento à vista em moeda corrente do País), PICPAY (pagamento via carteira digital), PIX (pagamento por transferência instantânea ou por QR-Code gerado na maquininha POS), CARTÕES DE CRÉDITO/DÉBITO (Visa, Master Card, American Express, Ello, Dinners, Hipercad, Banescard, Caball, FortBrasil e outros), CREDIÁRIO PRÓPRIO (até 4x sem juros com parcelas mínimas de R$30,00, ou 5x para compras acima de R$400,00), CHEQUE (até 3x sem juros com parcelas mínimas de R$30,00 mediante consulta de crédito) e CREDIÁRIO PARA FUNCIONÁRIO."
+        },
+        {
+          "id": 19,
+          "topic": "💳 I. Formas de Pagamento",
+          "question": "Como funciona o pagamento com cartão de crédito ?",
+          "answer": "O pagamento com cartão de crédito pode ser débito ou crédito à vista, ou parcelado em até 5x sem juros com parcelas mínimas de R$30,00. A partir de R$400,00 pode ser parcelado em até 5x sem juros."
+        },
+        {
+          "id": 20,
+          "topic": "💳 I. Formas de Pagamento",
+          "question": "Quantas parcelas posso fazer no cartão ?",
+          "answer": "Cartão de crédito: até 5x sem juros (parcela mínima R$30,00); Cartão FortBrasil: até 8x sem juros; Crediário próprio: até 4x sem juros (5x para compras acima de R$400,00, 10x para compras acima de R$1.000,00); Cheque: até 3x sem juros; Funcionários: até 3x sem juros (4x em dezembro)."
+        },
+        {
+          "id": 21,
+          "topic": "💳 I. Formas de Pagamento",
+          "question": "Qual o valor mínimo da parcela no cartão ?",
+          "answer": "O valor mínimo da parcela é de R$30,00 para todas as modalidades de pagamento parcelado."
+        },
+        {
+          "id": 22,
+          "topic": "💳 I. Formas de Pagamento",
+          "question": "Como funciona o PIX e PicPay ?",
+          "answer": "PIX é pagamento por transferência instantânea ou por QR-Code gerado na maquininha POS. PICPAY é pagamento via carteira digital."
+        },
+        {
+          "id": 23,
+          "topic": "💳 I. Formas de Pagamento",
+          "question": "Quais bandeiras de cartão são aceitas ?",
+          "answer": "As bandeiras aceitas são: Visa, Master Card, American Express, Ello, Dinners, Hipercad, Banescard, Caball, FortBrasil (cartão próprio) e outros."
+        },
+        {
+          "id": 24,
+          "topic": "💳 I. Formas de Pagamento",
+          "question": "Como funciona o cartão FortBrasil ?",
+          "answer": "Nas compras com o Cartão próprio Bandeira FortBrasil poderá ser parcelado em até 8x sem juros, com parcela mínima de R$30,00."
+        },
+        {
+          "id": 25,
+          "topic": "💳 I. Formas de Pagamento",
+          "question": "Preciso de documento para pagar com cartão ?",
+          "answer": "De acordo com a lei estadual Nº 8795/2008, cartões de crédito e débito deverão ser aceitos apenas mediante documento de identidade do titular. Para cartões sem chip, é obrigatório solicitar documento de identidade com foto. Para cartões com chip, deve solicitar documento, porém não será obrigatória a apresentação se o portador tiver senha pessoal."
+        },
+        {
+          "id": 26,
+          "topic": "💳 I. Formas de Pagamento",
+          "question": "Como funciona o pagamento em cheque ?",
+          "answer": "Pagamento em cheque pode ser parcelado em até 3x sem juros com parcelas mínimas de R$30,00, MEDIANTE CONSULTA DE CRÉDITO. É obrigatório apresentar documento de identidade com foto do titular da conta."
+        }
+      ]
+    },
+    "🏪 II. Crediário": {
+      "count": 11,
+      "questions": [
+        {
+          "id": 27,
+          "topic": "🏪 II. Crediário",
+          "question": "Como funciona o crediário próprio ?",
+          "answer": "O crediário próprio Blink Jeans oferece crédito através de limite financeiro para compra de produtos. Valor mínimo por parcela R$30,00, quantidade de parcelas padrão até 4x. Para ofertar 5x a compra deve ser superior a R$400,00 e para compras a partir de R$1.000,00 até 10x. Requer análise baseada em histórico de pagamento, frequência de compra, atualização cadastral e limite. É obrigatório apresentar documento de identidade com foto."
+        },
+        {
+          "id": 28,
+          "topic": "🏪 II. Crediário",
+          "question": "Quantas parcelas posso fazer no crediário próprio ?",
+          "answer": "No crediário próprio: até 4x sem juros (parcela mínima R$30,00), 5x para compras acima de R$400,00, e até 10x para compras acima de R$1.000,00."
+        },
+        {
+          "id": 29,
+          "topic": "🏪 II. Crediário",
+          "question": "Qual o valor mínimo da parcela no crediário ?",
+          "answer": "O valor mínimo por parcela no crediário próprio é de R$30,00."
+        },
+        {
+          "id": 30,
+          "topic": "🏪 II. Crediário",
+          "question": "Posso abrir novo crediário próprio ?",
+          "answer": "Não é permitida a abertura de novos cadastros para o crediário próprio nas lojas do ES. Contudo será permitida a abertura de novos crediários nas lojas Porto Seguro e Itamajarú."
+        },
+        {
+          "id": 31,
+          "topic": "🏪 II. Crediário",
+          "question": "Como é feita a análise do crediário próprio ?",
+          "answer": "A análise deve avaliar: histórico de pagamento e frequência de compra do cliente; última atualização de cadastro; limite de compra do cliente; situação financeira no SPC/Serasa. Caso haja restrição no CPF, o gerente deve realizar análise mais aprofundada. A crediarista não pode autorizar venda sem autorização do Gerente."
+        },
+        {
+          "id": 32,
+          "topic": "🏪 II. Crediário",
+          "question": "Qual o limite de compra no crediário ?",
+          "answer": "O limite deve ser baseado em 4 pilares: frequência e valores de compra nos últimos 12 meses; histórico de pontualidade nos últimos 12 meses; renda atual; situação financeira no SPC/Serasa atual."
+        },
+        {
+          "id": 33,
+          "topic": "🏪 II. Crediário",
+          "question": "Como atualizar cadastro do crediário ?",
+          "answer": "A atualização cadastral deve ser realizada no mínimo a cada 3 meses para todos os clientes. Inclui confirmação de dados de endereço, telefones, renda, referências comerciais, Serasa e SPC. É fundamental para manter contato e facilitar possíveis cobranças."
+        },
+        {
+          "id": 34,
+          "topic": "🏪 II. Crediário",
+          "question": "O que acontece se atrasar o crediário ?",
+          "answer": "Se o cliente ficar inadimplente, será necessário quitar os débitos para realizar novas compras. O cliente já demonstra histórico ruim e precederá análise mais apurada pelo Gerente."
+        },
+        {
+          "id": 35,
+          "topic": "🏪 II. Crediário",
+          "question": "Quando o nome vai para o SPC ?",
+          "answer": "Para as lojas do ES: caso o cliente fique com mais de 30 dias inadimplente, a loja deve acionar o SPC. Para as lojas da BA: caso o cliente fique com mais de 20 dias inadimplente, a loja deve acionar o SPC."
+        },
+        {
+          "id": 36,
+          "topic": "🏪 II. Crediário",
+          "question": "Como funciona a perda do benefício ?",
+          "answer": "O cliente poderá perder o benefício de crediário próprio de forma automática caso fique acima de 60 dias em atraso."
+        },
+        {
+          "id": 37,
+          "topic": "🏪 II. Crediário",
+          "question": "Qual a diferença entre ES e BA para inadimplência ?",
+          "answer": "ES: SPC após 30 dias de inadimplência, prazo para análise de defeitos 15 dias. BA: SPC após 20 dias de inadimplência, prazo para análise de defeitos 30 dias."
+        }
+      ]
+    },
+    "👥 III. Abordagem": {
+      "count": 8,
+      "questions": [
+        {
+          "id": 38,
+          "topic": "👥 III. Abordagem",
+          "question": "Como funciona o sistema 'O da Vez' ?",
+          "answer": "A Blink Jeans trabalha no sistema 'O DA VEZ'. Todos os vendedores fazem parte de uma lista definindo a sequência de atendimento. A lista é feita diariamente com critério de ordem de chegada. O vendedor que chega primeiro coloca seu nome na lista para o 1º atendimento, o segundo para o 2º atendimento e assim por diante. O vendedor deve imediatamente entrar na loja e colocar seu nome na lista, caso contrário perde a primazia."
+        },
+        {
+          "id": 39,
+          "topic": "👥 III. Abordagem",
+          "question": "Como é feito o atendimento na loja ?",
+          "answer": "O vendedor 'da vez' deve estar próximo à entrada da loja para efetuar pronto atendimento ao cliente que entrar. Não deve estar fazendo outra atividade que não seja atender. Entende-se cliente válido qualquer pessoa que entrar da porta para dentro, mesmo que apenas sondando a loja. O trabalho é atender com excelência qualquer cliente com objetivo de vender algo."
+        },
+        {
+          "id": 40,
+          "topic": "👥 III. Abordagem",
+          "question": "Quais são as regras de abordagem ?",
+          "answer": "Regras: estar próximo à entrada, não fazer outras atividades durante atendimento, não negociar trocas de 'vez', respeitar a lista de sequência. Se não estiver pronto para atendimento, vai para fim da fila. A gerente distribui atendimentos quando todas estão ocupadas, seguindo rodízio equitativo. Se cliente preferir vendedor específico, a escolha é respeitada."
+        },
+        {
+          "id": 41,
+          "topic": "👥 III. Abordagem",
+          "question": "Como funciona a distribuição de clientes ?",
+          "answer": "A gerente é responsável pela distribuição dos atendimentos para garantir ambiente harmonioso. Quando todas as vendedoras estão ocupadas, novos clientes são distribuídos de forma equitativa seguindo ordem de rodízio. Se cliente preferir vendedora específica, essa escolha será respeitada."
+        },
+        {
+          "id": 42,
+          "topic": "👥 III. Abordagem",
+          "question": "O que o vendedor deve fazer no atendimento ?",
+          "answer": "O vendedor deve: atender com excelência qualquer cliente; prestar melhor atendimento independente do cliente; não pré-definir se cliente tem potencial ou não; tratar todos igualmente; mesmo para pagamento de crediário ou troca, deve assessorar oferecendo novos produtos e estimulando vendas."
+        },
+        {
+          "id": 43,
+          "topic": "👥 III. Abordagem",
+          "question": "Quais aspectos da abordagem são importantes ?",
+          "answer": "Exemplo de abordagem: 'Bem-vindo à Blink Jeans! Como posso ajudá-lo a encontrar o look perfeito hoje? Temos ótimas promoções e novidades incríveis que você vai adorar. Sinta-se à vontade para experimentar o que quiser. Estou aqui para garantir que você tenha a melhor experiência de compra!' Após atender pedido inicial, nunca perguntar 'mais o que?' e sim oferecer novos produtos."
+        },
+        {
+          "id": 44,
+          "topic": "👥 III. Abordagem",
+          "question": "Como deve ser a apresentação do vendedor ?",
+          "answer": "O vendedor deve estar: uniformizado; asseado e com higiene pessoal bem cuidada; barba feita; penteado. Preferencialmente: maquiada; usar calçado fechado ou com fechamento."
+        },
+        {
+          "id": 45,
+          "topic": "👥 III. Abordagem",
+          "question": "O que o vendedor não deve fazer ?",
+          "answer": "O vendedor não deve: mascar chicletes na loja; usar bermuda; usar chinelo de dedo ou rasteirinha; usar celular em horário de atendimento; usar boné ou chapéu; usar piercing aparente; bater papo em excesso no horário de trabalho; usar caneta no cabelo; discutir no meio da loja. Deve guardar imediatamente produtos não vendidos antes de atender outro cliente."
+        }
+      ]
+    },
+    "📦 IV. Reserva de Mercadoria": {
+      "count": 6,
+      "questions": [
+        {
+          "id": 46,
+          "topic": "📦 IV. Reserva de Mercadoria",
+          "question": "Como funciona a reserva de produtos ?",
+          "answer": "As reservas podem se dar por vários motivos: cartão que não passou, buscar novo meio de pagamento, pedir opinião de outra pessoa, trazer alguém para provar as roupas, etc. Todos os produtos reservados devem seguir procedimento específico com formulário obrigatório."
+        },
+        {
+          "id": 47,
+          "topic": "📦 IV. Reserva de Mercadoria",
+          "question": "Por quanto tempo posso reservar um produto ?",
+          "answer": "Os produtos reservados podem ser guardados por prazo máximo de 48h a partir da data/hora da reserva. O vendedor deve informar ao cliente sobre esse prazo e deixar claro que após esse período os produtos serão colocados novamente à venda automaticamente sem necessidade de comunicar."
+        },
+        {
+          "id": 48,
+          "topic": "📦 IV. Reserva de Mercadoria",
+          "question": "Qual o procedimento para reservar mercadoria ?",
+          "answer": "Procedimento: 1) Anotar dados completos do formulário (enviado por email) e colocar junto da sacola com produtos reservados; 2) É obrigatório preenchimento de todos os campos do formulário; 3) Cada loja deve ter local específico para todos os produtos reservados; 4) O Gerente é responsável por garantir cumprimento do procedimento."
+        },
+        {
+          "id": 49,
+          "topic": "📦 IV. Reserva de Mercadoria",
+          "question": "Preciso preencher formulário para reserva ?",
+          "answer": "É obrigatório o preenchimento de todos os campos do formulário enviado por email a todas as lojas. O formulário deve ser colocado junto da sacola com os produtos reservados para o cliente."
+        },
+        {
+          "id": 50,
+          "topic": "📦 IV. Reserva de Mercadoria",
+          "question": "Reserva vale para uniformes profissionais ?",
+          "answer": "O prazo de 48h não é válido para clientes de Uniforme Profissional, porém todos os outros procedimentos são obrigatórios, inclusive preenchimento de formulário e local de guarda dos produtos reservados."
+        },
+        {
+          "id": 51,
+          "topic": "📦 IV. Reserva de Mercadoria",
+          "question": "O que acontece após 48h de reserva ?",
+          "answer": "Após 48h, caso o cliente não tenha vindo buscar a mercadoria, os produtos devem ser novamente colocados à venda na loja para qualquer cliente que desejar comprar. Esse procedimento é válido para clientes normais e funcionários."
+        }
+      ]
+    },
+    "📦 V. Recebimento e Lançamento": {
+      "count": 6,
+      "questions": [
+        {
+          "id": 52,
+          "topic": "📦 V. Recebimento e Lançamento",
+          "question": "Como é feito o recebimento de mercadorias ?",
+          "answer": "Semanalmente as lojas recebem novas mercadorias próprias e de outros fornecedores. É necessário correto procedimento para conferência e entrada, a fim de ter estoques ajustados e parte burocrática correta. É responsabilidade principal do Gerente realizar a conferência, podendo utilizar apoio de outros colaboradores."
+        },
+        {
+          "id": 53,
+          "topic": "📦 V. Recebimento e Lançamento",
+          "question": "Quem é responsável pela conferência ?",
+          "answer": "É de responsabilidade principal que o Gerente realize a conferência das mercadorias recebidas, podendo utilizar apoio de outros colaboradores para auxiliar na conferência e entrada sistêmica. Apenas em caso de ausência por dias, pode delegar a outra pessoa. Caso contrário, é responsabilidade intransferível do Gerente."
+        },
+        {
+          "id": 54,
+          "topic": "📦 V. Recebimento e Lançamento",
+          "question": "Como conferir produtos próprios ?",
+          "answer": "Produtos próprios devem ser conferidos através do romaneio enviado pela fábrica onde constam tamanhos, referências e quantidades enviadas. Com base nesta informação, realiza-se conferência do físico com o registro/romaneio. Caso não seja encontrada divergência, a mercadoria deve ser dada entrada no sistema pelo Gerente."
+        },
+        {
+          "id": 55,
+          "topic": "📦 V. Recebimento e Lançamento",
+          "question": "Como conferir produtos de terceiros ?",
+          "answer": "Produtos de terceiros devem ser conferidos através da Nota Fiscal enviada pelo fornecedor onde constam informações de referências, tamanhos e quantidades das mercadorias enviadas. Com base nesta informação, realiza-se conferência do físico com a nota fiscal. Caso não haja divergência, dar entrada no sistema."
+        },
+        {
+          "id": 56,
+          "topic": "📦 V. Recebimento e Lançamento",
+          "question": "O que fazer em caso de divergência ?",
+          "answer": "Em caso de divergência entre Romaneio e Físico (produtos próprios): entrar em contato com responsável pela transferência imediatamente. Da fábrica: contatar supervisor de expedição. De outra loja: contatar Gerente da loja. Para produtos terceiros: compra direta pela loja - contatar fornecedor; compra não direta - contatar assistente comercial."
+        },
+        {
+          "id": 57,
+          "topic": "📦 V. Recebimento e Lançamento",
+          "question": "Como dar entrada no sistema ?",
+          "answer": "Após conferência sem divergências, a mercadoria deve ser dada entrada no sistema pelo Gerente. Em caso de divergência, contatar o responsável antes de dar entrada conforme procedimentos específicos para produtos próprios ou de terceiros."
+        }
+      ]
+    },
+    "🏪 VI. Arrumação de Loja": {
+      "count": 7,
+      "questions": [
+        {
+          "id": 58,
+          "topic": "🏪 VI. Arrumação de Loja",
+          "question": "Como fazer a arrumação geral da loja ?",
+          "answer": "É responsabilidade do Gerente de Loja através do auxiliar de serviços gerais manter a loja organizada, limpa e com ambiente agradável para o perfeito acolhimento do cliente."
+        },
+        {
+          "id": 59,
+          "topic": "🏪 VI. Arrumação de Loja",
+          "question": "Como arrumar a vitrine ?",
+          "answer": "A vitrine tem como principal objetivo convidar o cliente a entrar na loja. Arrumação inicia-se com limpeza do espaço físico e dos manequins. É fundamental que esteja limpa, pois é a primeira parte da loja que o cliente avalia. Produtos escolhidos devem ser de lançamento, promocionais e de baixo giro. Cores devem estar 'falando entre si'. Preços devem estar visíveis em cada peça."
+        },
+        {
+          "id": 60,
+          "topic": "🏪 VI. Arrumação de Loja",
+          "question": "Com que frequência renovar a vitrine ?",
+          "answer": "A vitrine deve ser renovada ao menos uma vez por semana (normalmente no dia de recebimento de mercadoria de cada loja). A definição dos produtos para exposição é escolha de cada Gerente conforme necessidades da loja."
+        },
+        {
+          "id": 61,
+          "topic": "🏪 VI. Arrumação de Loja",
+          "question": "Como organizar araras e manequins ?",
+          "answer": "Araras, manequins e bancas devem ser limpos, organizados e com preços em cada produto exposto. O preço colocado na peça deve bater com o sistema. É papel do gerente garantir junto à equipe que isso seja verificado. Devem estar próximos de suas seções correspondentes para facilitar atendimento."
+        },
+        {
+          "id": 62,
+          "topic": "🏪 VI. Arrumação de Loja",
+          "question": "Como organizar as seções ?",
+          "answer": "Cada seção terá um vendedor responsável por organizar, repor e solicitar mercadorias faltantes ao gerente quando necessário. As seções devem estar organizadas durante toda semana, ficando sob responsabilidade do Gerente acompanhar junto à equipe o melhor método para garantir organização."
+        },
+        {
+          "id": 63,
+          "topic": "🏪 VI. Arrumação de Loja",
+          "question": "Como arrumar o estoque ?",
+          "answer": "Os vendedores são responsáveis pela arrumação e organização do estoque. A divisão das seções por cada vendedor deve ser feita pelo Gerente, buscando equalizar e dividir o trabalho entre vendedores conforme tamanho de cada seção, para que o trabalho seja repartido o mais justamente possível."
+        },
+        {
+          "id": 64,
+          "topic": "🏪 VI. Arrumação de Loja",
+          "question": "Quem é responsável pela organização ?",
+          "answer": "Gerente é responsável pela organização geral com apoio do auxiliar de serviços gerais. Vendedores são responsáveis pelas seções específicas e organização do estoque. O Gerente define métodos de organização e acompanha execução pela equipe."
+        }
+      ]
+    },
+    "👕 VII. Provadores": {
+      "count": 4,
+      "questions": [
+        {
+          "id": 65,
+          "topic": "👕 VII. Provadores",
+          "question": "Como funciona o controle do provador ?",
+          "answer": "O provador deve ser com cortinas de pano e com altura mínima para o piso a fim de que se possa ver se há clientes ou não no mesmo. Cada cliente só pode levar no máximo quatro peças para o provador, que devem ser conferidas na saída do cliente pelo vendedor."
+        },
+        {
+          "id": 66,
+          "topic": "👕 VII. Provadores",
+          "question": "Quantas peças posso levar para o provador ?",
+          "answer": "Cada cliente só poderá levar no máximo quatro peças para o provador, que devem ser conferidas na saída do cliente pelo vendedor."
+        },
+        {
+          "id": 67,
+          "topic": "👕 VII. Provadores",
+          "question": "Como funciona o sistema de crachás ?",
+          "answer": "Cada vendedor terá um crachá com número de peças a ser dado ao cliente para facilitar controle. Esse crachá deve constar o nome do vendedor e o número de peças entregues para o cliente provar. Quando o cliente terminar de provar as roupas, deve devolver o crachá ao vendedor."
+        },
+        {
+          "id": 68,
+          "topic": "👕 VII. Provadores",
+          "question": "O vendedor deve acompanhar no provador ?",
+          "answer": "É importante que o vendedor permaneça próximo ao provador dando assistência ao cliente, salvo nos dias de muito movimento."
+        }
+      ]
+    },
+    "🔄 VIII. Troca de Produtos": {
+      "count": 8,
+      "questions": [
+        {
+          "id": 69,
+          "topic": "🔄 VIII. Troca de Produtos",
+          "question": "Como fazer troca de produtos ?",
+          "answer": "Quando cliente retorna solicitando troca por qualquer motivo que não seja defeito, deve receber primeiro atendimento do vendedor 'da vez'. O vendedor deve conduzir o cliente até o Gerente para avaliar a peça e determinar se está em perfeito estado e dentro das regras previstas. Se cliente procurar vendedor específico, deve ser encaminhado ao vendedor preferencial."
+        },
+        {
+          "id": 70,
+          "topic": "🔄 VIII. Troca de Produtos",
+          "question": "Qual o prazo para trocar produtos ?",
+          "answer": "Prazo máximo de 7 dias corridos a partir do dia da compra para troca sem defeito. Para atacadistas, prazo máximo para troca é de 30 dias a partir do dia da compra."
+        },
+        {
+          "id": 71,
+          "topic": "🔄 VIII. Troca de Produtos",
+          "question": "Quais produtos não podem ser trocados ?",
+          "answer": "Não é permitida troca de: roupa íntima; roupas brancas; peças em 'PROMOÇÃO' (produtos que tiveram mais de 20% de desconto sobre preço base nos últimos 6 meses). Para atacadistas: não é permitida troca de peças fora da estação e de peças da promoção."
+        },
+        {
+          "id": 72,
+          "topic": "🔄 VIII. Troca de Produtos",
+          "question": "Preciso da etiqueta para trocar ?",
+          "answer": "A troca somente pode ocorrer com a presença fixa da etiqueta na peça. A troca em qualquer loja da rede Blink é permitida apenas com a etiqueta na peça. A troca pode ser realizada apenas uma vez para a mesma peça, depois de finalizar a troca, a etiqueta da nova peça deve ser retirada no caixa."
+        },
+        {
+          "id": 73,
+          "topic": "🔄 VIII. Troca de Produtos",
+          "question": "Posso trocar produtos em promoção ?",
+          "answer": "Não é permitida a troca de peças em 'PROMOÇÃO'. Entende-se 'Promoção' produtos que tiveram mais de 20% de desconto sobre o preço base nos últimos 6 meses."
+        },
+        {
+          "id": 74,
+          "topic": "🔄 VIII. Troca de Produtos",
+          "question": "Como funciona a troca para atacadistas ?",
+          "answer": "Para atacadistas: prazo máximo para troca de 30 dias a partir do dia da compra; não é permitida troca de peças fora da estação; não é permitida troca de peças da PROMOÇÃO."
+        },
+        {
+          "id": 75,
+          "topic": "🔄 VIII. Troca de Produtos",
+          "question": "Posso trocar em qualquer loja da rede ?",
+          "answer": "A troca em qualquer loja da rede Blink é permitida apenas com a etiqueta na peça."
+        },
+        {
+          "id": 76,
+          "topic": "🔄 VIII. Troca de Produtos",
+          "question": "Como emitir nota fiscal de troca ?",
+          "answer": "Deve ser emitida NF-Eletrônica de entrada com 'cfop: 1202' natureza da operação: 'anulação de venda'. No campo destinatário lançar código da própria loja. Em fatura/forma de pagamento não pode conter informação. No campo Item deve conter somente o que cliente está trocando, com valor total já com descontos. Colocar número do cupom da primeira venda no campo observações. Após validação, salvar, validar e transmitir para SEFAZ. Imprimir com carimbo e assinatura, enviar cópia para contabilidade."
+        }
+      ]
+    },
+    "🛠️ IX. Produtos com Defeito": {
+      "count": 7,
+      "questions": [
+        {
+          "id": 77,
+          "topic": "🛠️ IX. Produtos com Defeito",
+          "question": "Como proceder com produtos defeituosos ?",
+          "answer": "Quando cliente retorna informando defeito, deve procurar o Gerente para demonstrar a peça e problema. Gerente deve analisar quando cliente realizou a compra. O CDC estabelece direito de reclamar vícios aparentes no prazo máximo de 90 dias. Dentro deste prazo, Blink deve analisar se problema ocorreu por fabricação ou mal uso."
+        },
+        {
+          "id": 78,
+          "topic": "🛠️ IX. Produtos com Defeito",
+          "question": "Qual o prazo para reclamar defeitos ?",
+          "answer": "O artigo 26 do Código de Defesa do Consumidor (CDC) estabelece o direito de reclamar de vícios aparentes ou de fácil constatação no prazo máximo de 90 dias."
+        },
+        {
+          "id": 79,
+          "topic": "🛠️ IX. Produtos com Defeito",
+          "question": "Como é feita a análise técnica ?",
+          "answer": "O Gerente deve preencher 'ficha de análise técnica' com todos os dados necessários, colher assinatura do cliente e também assinar a ficha impressa. Esta ficha deve ser enviada via email para área de Produção/Produtos (Ludimila, Leyber e Kamila) e via impressa enviada à fábrica junto com o produto. O setor responsável analisará o produto e dará retorno sobre permissão da troca."
+        },
+        {
+          "id": 80,
+          "topic": "🛠️ IX. Produtos com Defeito",
+          "question": "O que fazer se o defeito for de mal uso ?",
+          "answer": "Caso Gerente identifique que problema foi gerado por mal uso, deve tentar convencer cliente sutilmente que produto foi fabricado para todas as lojas e é primeira reclamação na empresa. Se cliente aceitar argumentações, caso encerrado. Se não aceitar, Gerente informa que produto será avaliado pelo setor técnico da empresa."
+        },
+        {
+          "id": 81,
+          "topic": "🛠️ IX. Produtos com Defeito",
+          "question": "Qual o prazo para retorno da análise ?",
+          "answer": "Prazo de no máximo 15 dias para retorno ao cliente nas lojas do Espírito Santo e 30 dias para as lojas da Bahia."
+        },
+        {
+          "id": 82,
+          "topic": "🛠️ IX. Produtos com Defeito",
+          "question": "Como funciona para ES e BA ?",
+          "answer": "Espírito Santo: prazo de retorno da análise de 15 dias. Bahia: prazo de retorno da análise de 30 dias. Defeitos consertáveis (Botão, Zíper, Descosturado) podem ser encaminhados para setor de consertos com mesmo prazo de retorno."
+        },
+        {
+          "id": 83,
+          "topic": "🛠️ IX. Produtos com Defeito",
+          "question": "O que fazer com defeitos antes da venda ?",
+          "answer": "Defeitos 'consertáveis': Enviar para setor de conserto da fábrica (sem botão, problemas no zíper, descosturando, etc.). Defeitos não 'consertáveis': Classificar como Leves Defeitos com desconto de 20% sobre preço base. Para defeitos graves que não se venderá com 20% de desconto: devolver produto defeituoso para fábrica."
+        }
+      ]
+    },
+    "🎨 X. Bordado": {
+      "count": 6,
+      "questions": [
+        {
+          "id": 84,
+          "topic": "🎨 X. Bordado",
+          "question": "Como solicitar bordados personalizados ?",
+          "answer": "Na negociação, cliente repassa para vendedora a logomarca da empresa acrescida de explicações como: tamanho, cores das linhas, localização e todos os dados necessários conforme formulário. Vendedora encaminha logomarca via malote ou arquivo digital para setor de bordado, onde será feito desenvolvimento da arte, teste de bordado e 1 amostra para aprovação do cliente."
+        },
+        {
+          "id": 85,
+          "topic": "🎨 X. Bordado",
+          "question": "Qual o preço do bordado ?",
+          "answer": "Tabela de preços: PEQUENO (até 5000 pontos): R$5,00; MÉDIO (de 5001 a 7500 pontos): R$7,50; GRANDE (de 7501 a 15000 pontos): R$10,00; EXTRA GRANDE (acima de 15001 pontos): Consultar Fábrica (Leyber). Quando a peça tiver mais de um bordado, valor da arte será cobrado por cada arte de bordado."
+        },
+        {
+          "id": 86,
+          "topic": "🎨 X. Bordado",
+          "question": "Quanto tempo demora para fazer bordado ?",
+          "answer": "Prazo de entrega: 30 dias úteis após aprovação da arte/pedido. O prazo do programador para retorno da amostra desenvolvida à loja é de 2 dias úteis."
+        },
+        {
+          "id": 87,
+          "topic": "🎨 X. Bordado",
+          "question": "Preciso pagar pela arte do bordado ?",
+          "answer": "A vendedora informa ao cliente que quando não tiver arte pronta na empresa vai precisar desenvolver, e o preço é R$35,00 por arte de bordado. O valor do bordado dependerá da quantidade de pontos gastos na realização da amostra."
+        },
+        {
+          "id": 88,
+          "topic": "🎨 X. Bordado",
+          "question": "Qual a tabela de preços do bordado ?",
+          "answer": "Tabela completa: PEQUENO (até 5000 pontos): R$5,00, Arte R$35,00; MÉDIO (5001-7500 pontos): R$7,50, Arte R$35,00; GRANDE (7501-15000 pontos): R$10,00, Arte R$35,00; EXTRA GRANDE (acima de 15001): Consultar Fábrica, Arte R$35,00."
+        },
+        {
+          "id": 89,
+          "topic": "🎨 X. Bordado",
+          "question": "Como funciona o desenvolvimento da arte ?",
+          "answer": "O programador desenvolve a arte, faz uma amostra discriminando quantidade de pontos do bordado e encaminha formulário via malote para vendedora com amostra afixada. Vendedora recebe, confere pedido e contata cliente para vir à loja aprovar amostra. Após aprovação, loja encaminha formulário assinado para setor de bordado."
+        }
+      ]
+    },
+    "🎨 XI. Estampa": {
+      "count": 5,
+      "questions": [
+        {
+          "id": 90,
+          "topic": "🎨 XI. Estampa",
+          "question": "Como solicitar estampas personalizadas ?",
+          "answer": "Na negociação, cliente repassa para vendedora a logomarca da empresa acrescida de explicações como: tamanho, cores das linhas, localização e todos os dados necessários conforme formulário. O estampador faz amostra e encaminha via malote para vendedora com formulário contendo informações da arte."
+        },
+        {
+          "id": 91,
+          "topic": "🎨 XI. Estampa",
+          "question": "Qual o preço das estampas ?",
+          "answer": "Tabela de preços por cor: Pequena/Bolso (1 cor): R$1,00, (2 cores): R$2,00; 1 Pequena e 1 grande/Bolso + costas (1 cor): R$2,00, (2 cores): R$4,00; 2 pequenas e 1 grande/Bolso + Manga + costa (1 cor): R$3,00, (2 cores): R$6,00; 1 média e 1 grande/Frente (1 cor): R$3,00, (2 cores): R$6,00; Cromia: R$6,00."
+        },
+        {
+          "id": 92,
+          "topic": "🎨 XI. Estampa",
+          "question": "Quanto custa a arte para estampa ?",
+          "answer": "Quadro de arte para desenvolvimento: Tamanho pequeno sem complexidade até duas cores: R$20,00; Tamanho médio complexidade média até 3 cores: R$35,00; Tamanho grande até 4 cores grande complexidade: R$45,00 a R$90,00; Tamanho 'full print' cromia total ou parcial: R$90,00. Caso cliente já tenha tela na empresa não haverá cobrança."
+        },
+        {
+          "id": 93,
+          "topic": "🎨 XI. Estampa",
+          "question": "Qual o prazo para entrega de estampas ?",
+          "answer": "Prazo de entrega: 30 dias úteis após aprovação da arte/pedido, salvo peça em estoque na rede de lojas. O prazo do programador para retorno da amostra desenvolvida à loja é de 5 dias úteis."
+        },
+        {
+          "id": 94,
+          "topic": "🎨 XI. Estampa",
+          "question": "Como funciona a tabela de preços por cor ?",
+          "answer": "Tabela detalhada: Pequena/Bolso (1 cor R$1,00, 2 cores R$2,00); 1 Pequena + 1 grande/Bolso + costas (1 cor R$2,00, 2 cores R$4,00); 2 pequenas + 1 grande/Bolso + Manga + costa (1 cor R$3,00, 2 cores R$6,00); 1 média + 1 grande/Frente (1 cor R$3,00, 2 cores R$6,00); Frente + costas Cromia R$6,00."
+        }
+      ]
+    },
+    "💰 XII. Fechamento de Caixa": {
+      "count": 6,
+      "questions": [
+        {
+          "id": 95,
+          "topic": "💰 XII. Fechamento de Caixa",
+          "question": "Como fazer o fechamento de caixa ?",
+          "answer": "Ao final do dia, operador de caixa deve: 1) Colocar vendas de cada vendedor em sequência seguindo numeração do bloco; 2) Separar vias de cartão por bandeira e somar; 3) Separar vendas de crediário próprio e somar; 4) Separar vendas de crediário para funcionários e somar; 5) Separar cheques pré-datados e somar; 6) Separar cheques à vista e somar; 7) Separar recebimento de duplicatas e somar; 8) Separar trocas por vendedor."
+        },
+        {
+          "id": 96,
+          "topic": "💰 XII. Fechamento de Caixa",
+          "question": "Quais relatórios preciso emitir no fechamento ?",
+          "answer": "Os relatórios que devem ser emitidos são: Relatório de 'Sangria' e Relatório de 'Caixa Diário'. No visual, enviar arquivo com 5 dias anteriores à data da emissão."
+        },
+        {
+          "id": 97,
+          "topic": "💰 XII. Fechamento de Caixa",
+          "question": "Como conferir as vendas no sistema ?",
+          "answer": "Ir no Visual Control > Vendas-Relatórios > Relatórios diversos de vendas > Período: colocar data do fechamento do caixa > Na terceira coluna marcar forma de pagamento/vendedor > No último quadro formas de pagamentos, desmarcar todos e depois marcar um a um menos a forma de pagamento (troca) > Confirmar emissão relatórios: sim > Visualizar as vendas e confirmar se está correto."
+        },
+        {
+          "id": 98,
+          "topic": "💰 XII. Fechamento de Caixa",
+          "question": "Como fazer o envelopamento do caixa ?",
+          "answer": "1) Juntar todas as somas de caixa de forma separada, assim como foi conferida; 2) Incluir impressões dos relatórios: Sangria, Caixa diário; 3) Colocar tudo organizado dentro de um envelope; 4) Envelope deve ser obrigatoriamente identificado com nome da loja e data; 5) Não enviar 'Contas a Vencer' dentro do caixa, pois correrá risco de não serem encaminhadas para setor financeiro no prazo adequado."
+        },
+        {
+          "id": 99,
+          "topic": "💰 XII. Fechamento de Caixa",
+          "question": "Como separar as formas de pagamento ?",
+          "answer": "Separar: vias de cartão de crédito por bandeira; vendas de crediário próprio para clientes; vendas de crediário para funcionários; vendas de cheques pré-datados; vendas de cheques à vista; recebimento de duplicatas (Crediário próprio); trocas por vendedor. Identificar em todas as somatórias as formas de pagamento com data, loja e assinatura do responsável."
+        },
+        {
+          "id": 100,
+          "topic": "💰 XII. Fechamento de Caixa",
+          "question": "Como usar o Visual Control para conferência ?",
+          "answer": "Acesse Visual Control > Vendas > Relatórios > Relatórios diversos de vendas, selecione a data, marque formas de pagamento/vendedor, desmarque 'troca', e visualize as vendas para conferir se está tudo correto. Em caso de troca, conferir vendas totais dos vendedores eliminando o campo troca."
+        }
+      ]
+    },
+    "📝 XIII. Bloco de Vendas": {
+      "count": 6,
+      "questions": [
+        {
+          "id": 101,
+          "topic": "📝 XIII. Bloco de Vendas",
+          "question": "Como funciona o bloco de vendas ?",
+          "answer": "O Bloco de vendas foi criado para ser controle nas vendas realizadas de cada vendedor e onde contém as principais informações dos produtos vendidos. Cada Bloco vem com número sequencial (em vermelho) que precisa ser respeitado no momento da venda, ou seja, anotações das vendas devem respeitar ordem do menor para o maior de forma cronológica."
+        },
+        {
+          "id": 102,
+          "topic": "📝 XIII. Bloco de Vendas",
+          "question": "Qual a sequência para preencher ?",
+          "answer": "As anotações das vendas nas folhas do Bloco devem respeitar a ordem do menor para o maior de forma cronológica das vendas. O preenchimento de todos os campos das partes 1, 2 e 3 são obrigatórios, exceto a 'Modalidade de Venda'. Não é permitido envio do caixa sem que a sequência do bloco de vendas por vendedor seja respeitada na íntegra."
+        },
+        {
+          "id": 103,
+          "topic": "📝 XIII. Bloco de Vendas",
+          "question": "Quantas partes tem o bloco ?",
+          "answer": "As folhas do Bloco são divididas em 4 partes: PARTE 1: Via do Vendedor (nº orçamento, cód. vendedor, valor total); PARTE 2: Via para o caixa com mercadorias (todos os dados da venda); PARTE 3: Via do cliente para pagamento (todos os dados da venda); PARTE 4: Conferência (apenas código, tamanho e quantidade dos produtos)."
+        },
+        {
+          "id": 104,
+          "topic": "📝 XIII. Bloco de Vendas",
+          "question": "Como proceder com vendas canceladas ?",
+          "answer": "No caso de cancelamento de vendas, é necessário que seja escrito nas partes 1, 2 e 3 a palavra 'CANCELADO' bem legível e constar as assinaturas do gerente, caixa e vendedor. O envio das partes 2 e 3 são obrigatórios no fechamento do caixa, inclusive as vendas canceladas."
+        },
+        {
+          "id": 105,
+          "topic": "📝 XIII. Bloco de Vendas",
+          "question": "O que fazer em caso de rasura ?",
+          "answer": "Em caso de rasura nos campos de 'Valor', 'Quant. de Peças' e 'Cód. Vendedor' será necessário a assinatura do Gerente."
+        },
+        {
+          "id": 106,
+          "topic": "📝 XIII. Bloco de Vendas",
+          "question": "Como controlar a numeração sequencial ?",
+          "answer": "Caso seja encontrado algum bloco onde a sequência numeral esteja errada, é necessário informar ao Financeiro essa situação. Caso existam blocos parcialmente utilizados por vendedores que saíram da empresa, podem ser utilizados por outros vendedores a partir da sequência final, desde que seja avisado ao Financeiro para evitar desperdício."
+        }
+      ]
+    },
+    "📞 XIV. Cobrança": {
+      "count": 7,
+      "questions": [
+        {
+          "id": 107,
+          "topic": "📞 XIV. Cobrança",
+          "question": "Como funciona a cobrança de inadimplentes ?",
+          "answer": "Através do sistema visual, retirar relatório de inadimplência de 10 em 10 dias. Clientes que atrasam duplicatas 10 dias entrarão na listagem de cobrança. Essa listagem deve ser entregue à pessoa responsável pela cobrança para realizar contatos objetivando quitação. A cobrança inicia a partir de dez dias de atraso e colaborador deve respeitar agendamento do devedor."
+        },
+        {
+          "id": 108,
+          "topic": "📞 XIV. Cobrança",
+          "question": "Quando começam os juros de atraso ?",
+          "answer": "Em caso de inadimplência, o CLIENTE arcará com juros de 0,30% por dia de atraso. Esse custo já está parametrizado em sistema e é calculado automaticamente."
+        },
+        {
+          "id": 109,
+          "topic": "📞 XIV. Cobrança",
+          "question": "Como é feito o desconto nos juros ?",
+          "answer": "Tabela de progressão de descontos dos juros: Acima de 5 anos – até 100% dos juros; Acima de 4 anos – até 80% dos juros; Acima de 3 anos – até 70% dos juros; Acima de 2 anos – até 50% dos juros; Acima de 1 ano – até 30% dos juros; Acima de 90 dias de atraso até 10% de desconto. Em caso do cliente desejar desconto acima do aprovado, contatar a Diretoria."
+        },
+        {
+          "id": 110,
+          "topic": "📞 XIV. Cobrança",
+          "question": "Qual o procedimento de cobrança ?",
+          "answer": "Procedimento: 1) Retirar relatório de inadimplência a cada 10 dias; 2) Realizar contatos com clientes; 3) Agendar quitação e acompanhar até pagamento; 4) Com 20 dias de atraso, cliente receberá carta formal do CDL; 5) Nome será incluso no SPC NO PRAZO DE TRINTA DIAS CORRIDOS de inadimplência; 6) Para clientes com mais de 30 dias em atraso e inscritos no SPC que refizerem acordo, deve ser formalizado e assinado."
+        },
+        {
+          "id": 111,
+          "topic": "📞 XIV. Cobrança",
+          "question": "Como funciona o relatório de inadimplência ?",
+          "answer": "Através do sistema visual, retirar um relatório de inadimplência de 10 em 10 dias. Exemplo: 31/07/24. Em 10/07/24, a listagem será tirada do dia 20/07/24 ao dia 31/07/24. Clientes que atrasam as duplicatas 10 dias entrarão na listagem de cobrança."
+        },
+        {
+          "id": 112,
+          "topic": "📞 XIV. Cobrança",
+          "question": "Quem é responsável pela cobrança ?",
+          "answer": "A responsabilidade de realizar a cobrança é principalmente da equipe de crediaristas e caixas. No caso da loja que não possui crediaristas, os caixas deverão executar esse papel de cobrança."
+        },
+        {
+          "id": 113,
+          "topic": "📞 XIV. Cobrança",
+          "question": "Como funciona a tabela de descontos ?",
+          "answer": "Tabela de progressão de descontos dos juros: Acima de 5 anos – até 100%; Acima de 4 anos – até 80%; Acima de 3 anos – até 70%; Acima de 2 anos – até 50%; Acima de 1 ano – até 30%; Acima de 90 dias – até 10%. Obs: Em caso do cliente desejar desconto acima do aprovado, contatar a Diretoria."
+        }
+      ]
+    },
+    "💼 XV. Lançamento de Contas": {
+      "count": 6,
+      "questions": [
+        {
+          "id": 114,
+          "topic": "💼 XV. Lançamento de Contas",
+          "question": "Como lançar contas a pagar no sistema ?",
+          "answer": "Toda despesa ou conta a pagar direcionada à loja deve ser lançada no sistema Visual Control. Ir em 'financeiro' - 'contas a pagar' - 'duplicatas'. No ícone 'novo' para iniciar lançamento. Preencher campos obrigatórios: nota fiscal, loja, emissão, data de entrada, fornecedor, local de cobrança (.), classe contábil, condições de pagamento, centro de custo, total da NF, histórico."
+        },
+        {
+          "id": 115,
+          "topic": "💼 XV. Lançamento de Contas",
+          "question": "Como usar o Visual Control ?",
+          "answer": "Vá até barra de ferramentas e selecione 'financeiro' - 'contas a pagar' - 'duplicatas' para lançamento. Para baixa dos documentos: 'financeiro' - 'contas a pagar' - 'liquidação de duplicatas'."
+        },
+        {
+          "id": 116,
+          "topic": "💼 XV. Lançamento de Contas",
+          "question": "Como preencher os campos obrigatórios ?",
+          "answer": "Campos obrigatórios: 'nota fiscal' (número do documento ou data se não houver); 'loja' (razão social do estabelecimento); 'emissão' (data que documento foi emitido); 'data de entrada' (data que documento foi recebido na loja); 'fornecedor' (pesquisar fornecedor referente); 'local de cobrança' (apenas ponto '.'); 'classe contábil' (tipo de custo/despesa); 'condições de pagamento'; 'centro de custo'; 'total da NF'; 'histórico' (referência do documento)."
+        },
+        {
+          "id": 117,
+          "topic": "💼 XV. Lançamento de Contas",
+          "question": "Como fazer a baixa de documentos ?",
+          "answer": "Para baixa: ir em 'financeiro' - 'contas a pagar' - 'liquidação de duplicatas'. Preencher 'fornecedor' e 'selecione o vencimento', escolher 'loja', depois 'pesquisar'. Selecionar documento desejado e clicar 'novo pagamento'. Preencher: 'data do pagamento', 'forma de pagamento', 'loja do pagamento', 'valor a pago', 'juros' e 'descontos' se houver."
+        },
+        {
+          "id": 118,
+          "topic": "💼 XV. Lançamento de Contas",
+          "question": "O que é classe contábil ?",
+          "answer": "Neste campo deve-se prestar muita atenção, pois será preenchido qual o tipo de custo ou despesa a que o documento representa. Essas informações serão integradas à contabilidade e servirão de base para relatórios gerenciais. A lista completa com todas as classificações contábeis de despesa foram enviadas por email para as lojas."
+        },
+        {
+          "id": 119,
+          "topic": "💼 XV. Lançamento de Contas",
+          "question": "Como organizar centro de custo ?",
+          "answer": "Deve ser indicado o centro de custo da loja. Neste campo também deve-se ter muita atenção na hora de preencher, pois essas informações servirão como base para relatórios gerenciais."
+        }
+      ]
+    },
+    "👔 Funcionários": {
+      "count": 6,
+      "questions": [
+        {
+          "id": 120,
+          "topic": "👔 Funcionários",
+          "question": "Como funciona o crediário para funcionários ?",
+          "answer": "Para funcionários loja e fábrica. Condição de pagamento: Em até 3x sem juros com parcelas mínimas de R$30,00 com exceção do mês de Dezembro ao qual poderá ser parcelado em até 4x sem juros. Desconto de 20% em mercadorias próprias e 10% para mercadorias de terceiros. Limite de compra de R$510,00, podendo apenas ser descontado R$170,00 do funcionário por parcela (regra estabelecida pelo sindicato)."
+        },
+        {
+          "id": 121,
+          "topic": "👔 Funcionários",
+          "question": "Qual o desconto para funcionários ?",
+          "answer": "Será dado desconto sobre preço de venda para mercadorias próprias de 20% e 10% para mercadorias de terceiros. Produtos em promoção não terão nenhum desconto."
+        },
+        {
+          "id": 122,
+          "topic": "👔 Funcionários",
+          "question": "Qual o limite de compra de funcionários ?",
+          "answer": "Limite de compra de R$510,00, podendo apenas ser descontado R$170,00 do funcionário por parcela. Regra estabelecida pelo sindicato. Caso funcionário já possua alguma parcela a vencer e desejar realizar nova compra, a somatória das parcelas não poderá ser maior que R$170,00."
+        },
+        {
+          "id": 123,
+          "topic": "👔 Funcionários",
+          "question": "Como funciona o desconto no cartão funcionário ?",
+          "answer": "Para funcionários loja e fábrica usando cartão. Será dado desconto sobre preço de venda para mercadorias próprias de 15% e 5% para mercadorias de terceiros. Produtos em promoção não terão nenhum desconto."
+        },
+        {
+          "id": 124,
+          "topic": "👔 Funcionários",
+          "question": "Funcionários podem parcelar em quantas vezes ?",
+          "answer": "Funcionários podem parcelar em até 3x sem juros com parcelas mínimas de R$30,00 com exceção do mês de Dezembro ao qual poderá ser parcelado em até 4x sem juros com parcelas mínimas de R$30,00."
+        },
+        {
+          "id": 125,
+          "topic": "👔 Funcionários",
+          "question": "Como funciona no mês de dezembro ?",
+          "answer": "Com exceção do mês de Dezembro ao qual poderá ser parcelado em até 4x sem juros com parcelas mínimas de R$30,00, tanto para crediário quanto para cartão funcionário."
+        }
+      ]
+    },
+    "📋 Pedido de Vendas": {
+      "count": 1,
+      "questions": [
+        {
+          "id": 126,
+          "topic": "📋 Pedido de Vendas",
+          "question": "Como preencher pedido de venda ?",
+          "answer": "📋 COMO PREENCHER PEDIDO DE VENDA:\n\n🔸 DADOS DO CLIENTE:\n• Nome completo do cliente\n• CPF ou CNPJ\n• Endereço completo (incluindo CEP)\n• Telefone para contato\n• E-mail (se disponível)\n\n🔸 DADOS DOS PRODUTOS:\n• Código do produto\n• Descrição detalhada (marca, modelo, cor, tamanho)\n• Quantidade solicitada\n• Valor unitário\n• Valor total por item\n\n🔸 INFORMAÇÕES DE PAGAMENTO:\n• Forma de pagamento escolhida\n• Número de parcelas (se aplicável)\n• Valor de entrada (se houver)\n• Vencimentos das parcelas\n\n🔸 OBSERVAÇÕES IMPORTANTES:\n• Verificar disponibilidade dos produtos no estoque\n• Confirmar prazo de entrega\n• Anotar observações especiais do cliente\n• Solicitar documentos necessários para crediário\n• Verificar se é cliente cadastrado ou novo\n\n🔸 PERSONALIZAÇÃO DE UNIFORMES:\n\nTipo de Logo:\n☐ Bordado ☐ Silk ☐ Patch ☐ DTF\n\nPosicionamento (selecionar conforme o tipo de logo):\nBordado (CAMISA):\n☐ Peito ☐ Costas ☐ Manga ☐ Bolso\n\nSilk/DTF:\n☐ Frente ☐ Costas ☐ Manga ☐ Bolso (☐ Direita ☐ Esquerda)\n\nOutras opções (se aplicável):\n☐ Traseiro ☐ Acima do Bolso ☐ Perna (☐ Lado Direito ☐ Lado Esquerdo)\n☐ Escrita Horizontal ☐ Escrita Vertical\n\nPatch:\n☐ Peito (☐ Direita ☐ Esquerda)\n\nFaixa Refletiva (se aplicável):\n☐ Cintura ☐ Pernas ☐ Manga\nAltura: ___________\n\nAnexos e Informações Adicionais:\n☐ Arte da logo\nMedidas: ____________________\nNome da arte: _________________\n\nDados de Envio:\nPra quem foi enviado? ________________________\nQual meio foi utilizado para o envio?\n☐ WhatsApp ☐ Teams ☐ E-mail\n\n🔸 FINALIZAÇÃO:\n• Conferir todos os dados preenchidos\n• Calcular total geral da compra\n• Obter assinatura do cliente\n• Entregar cópia do pedido ao cliente\n• Arquivar via da empresa"
+        }
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "topic": "🏢 Quem Somos",
+      "question": "O que é a Blink Jeans ?",
+      "answer": "A Blink Jeans é uma rede de Lojas de Roupas e Uniformes que atua na Grande Vitória e dois municípios da Bahia. É referência em qualidade e bom atendimento, oferecendo roupas e uniformes com foco na excelência do atendimento ao cliente."
+    },
+    {
+      "id": 2,
+      "topic": "🏢 Quem Somos",
+      "question": "Quando a Blink Jeans foi fundada ?",
+      "answer": "A Blink Jeans foi fundada em 1976, através de uma visão audaciosa de seus fundadores, iniciativa que deu origem a esta grande rede de lojas de roupas e uniformes."
+    },
+    {
+      "id": 3,
+      "topic": "🏢 Quem Somos",
+      "question": "Quantas lojas a Blink possui ?",
+      "answer": "A Blink Jeans possui 08 unidades espalhadas pelo Espírito Santo e Bahia, resultado do crescimento da empresa desde sua fundação em 1976."
+    },
+    {
+      "id": 4,
+      "topic": "🏢 Quem Somos",
+      "question": "Onde estão localizadas as lojas da Blink ?",
+      "answer": "As lojas da Blink Jeans estão localizadas na Grande Vitória (Espírito Santo) e em dois municípios da Bahia, totalizando 08 unidades estrategicamente posicionadas."
+    },
+    {
+      "id": 5,
+      "topic": "🏢 Quem Somos",
+      "question": "A Blink tem loja online ?",
+      "answer": "Sim! Além das lojas físicas, a Blink Jeans conta com uma loja virtual onde você pode realizar suas compras online de maneira prática e rápida."
+    },
+    {
+      "id": 6,
+      "topic": "🏢 Quem Somos",
+      "question": "Qual a história da empresa ?",
+      "answer": "A história da Blink Jeans teve início em 1976, através de uma visão audaciosa de seus fundadores. A empresa não tardou para cair no gosto e preferência dos capixabas e de todos os brasileiros, que ficam satisfeitos com a qualidade e atendimento oferecidos."
+    },
+    {
+      "id": 7,
+      "topic": "🏢 Quem Somos",
+      "question": "Quais são os valores da Blink Jeans ?",
+      "answer": "Os valores da Blink Jeans são: RESPEITO, RESPONSABILIDADE, EVOLUÇÃO PERMANENTE, COMPETITIVIDADE e SUCESSO. Estes valores norteiam todas as ações e decisões da empresa."
+    },
+    {
+      "id": 8,
+      "topic": "🏢 Quem Somos",
+      "question": "Qual a missão da Blink Jeans ?",
+      "answer": "A missão da Blink Jeans é trazer ótimas opções em estilo casual, evangélico, feminino, masculino e plus size, além de fornecer uniformes escolares e empresariais com qualidade, durabilidade e preço justo."
+    },
+    {
+      "id": 9,
+      "topic": "🏢 Quem Somos",
+      "question": "Qual a visão da empresa para 2026 ?",
+      "answer": "Até 2026 a Blink se consolidará como referência em vestuário e uniformes profissionais, primando pela qualidade, impulsionando a inovação e cultivando o compromisso de excelência no atendimento aos clientes e aos colaboradores."
+    },
+    {
+      "id": 10,
+      "topic": "🏢 Quem Somos",
+      "question": "O que a empresa vende ?",
+      "answer": "A Blink Jeans oferece ótimas opções em estilo casual, evangélico, feminino, masculino e plus size. Também fornece uniformes escolares e empresariais com qualidade, durabilidade e preço justo."
+    },
+    {
+      "id": 11,
+      "topic": "🏢 Quem Somos",
+      "question": "Como a Blink trabalha com organização ?",
+      "answer": "A Blink busca realizar as melhores práticas do mercado, desenvolvendo e aprimorando o manual de procedimentos que visa padronizar todos os processos, atividades e rotinas, a fim de trazer mais velocidade nas ações e principalmente atender melhor clientes e colaboradores."
+    },
+    {
+      "id": 12,
+      "topic": "🏢 Quem Somos",
+      "question": "Como a empresa pratica inovação ?",
+      "answer": "A Blink está em um contínuo processo de renovação dos conceitos e ideais, sendo uma empresa inovadora em seus produtos, serviços, e jeito de lidar com o mercado. A empresa se adapta em vários cenários e está sempre atenta às opiniões de colaboradores e clientes para melhorar constantemente."
+    },
+    {
+      "id": 13,
+      "topic": "🏢 Quem Somos",
+      "question": "Como a Blink pratica ética nos negócios ?",
+      "answer": "A Blink acredita que ser uma empresa ética e transparente é a melhor maneira de gerir os negócios. Para a empresa, isso não é apenas uma atitude, mas um modelo de gestão."
+    },
+    {
+      "id": 14,
+      "topic": "🏢 Quem Somos",
+      "question": "Como a empresa garante qualidade ?",
+      "answer": "A qualidade está no DNA da Blink Jeans. A empresa oferece somente produtos e serviços com altos níveis de qualidade e com preços coerentemente cobrados."
+    },
+    {
+      "id": 15,
+      "topic": "🏢 Quem Somos",
+      "question": "Quais tipos de roupas a Blink oferece ?",
+      "answer": "A Blink oferece roupas em diversos estilos: casual, evangélico, feminino, masculino e plus size, atendendo a diferentes perfis e necessidades dos clientes."
+    },
+    {
+      "id": 16,
+      "topic": "🏢 Quem Somos",
+      "question": "A Blink vende uniformes ?",
+      "answer": "Sim! A Blink fornece uniformes escolares e empresariais com qualidade, durabilidade e preço justo, sendo uma das especialidades da empresa."
+    },
+    {
+      "id": 17,
+      "topic": "🏢 Quem Somos",
+      "question": "Como a empresa chegará aos seus objetivos ?",
+      "answer": "A Blink chegará aos seus objetivos através dos valores: Respeito, Responsabilidade, Evolução Permanente, Competitividade e Sucesso, sempre focando na excelência do atendimento e qualidade dos produtos."
+    },
+    {
+      "id": 18,
+      "topic": "💳 I. Formas de Pagamento",
+      "question": "Quais são as formas de pagamento aceitas ?",
+      "answer": "As formas de pagamento aceitas são: DINHEIRO (pagamento à vista em moeda corrente do País), PICPAY (pagamento via carteira digital), PIX (pagamento por transferência instantânea ou por QR-Code gerado na maquininha POS), CARTÕES DE CRÉDITO/DÉBITO (Visa, Master Card, American Express, Ello, Dinners, Hipercad, Banescard, Caball, FortBrasil e outros), CREDIÁRIO PRÓPRIO (até 4x sem juros com parcelas mínimas de R$30,00, ou 5x para compras acima de R$400,00), CHEQUE (até 3x sem juros com parcelas mínimas de R$30,00 mediante consulta de crédito) e CREDIÁRIO PARA FUNCIONÁRIO."
+    },
+    {
+      "id": 19,
+      "topic": "💳 I. Formas de Pagamento",
+      "question": "Como funciona o pagamento com cartão de crédito ?",
+      "answer": "O pagamento com cartão de crédito pode ser débito ou crédito à vista, ou parcelado em até 5x sem juros com parcelas mínimas de R$30,00. A partir de R$400,00 pode ser parcelado em até 5x sem juros."
+    },
+    {
+      "id": 20,
+      "topic": "💳 I. Formas de Pagamento",
+      "question": "Quantas parcelas posso fazer no cartão ?",
+      "answer": "Cartão de crédito: até 5x sem juros (parcela mínima R$30,00); Cartão FortBrasil: até 8x sem juros; Crediário próprio: até 4x sem juros (5x para compras acima de R$400,00, 10x para compras acima de R$1.000,00); Cheque: até 3x sem juros; Funcionários: até 3x sem juros (4x em dezembro)."
+    },
+    {
+      "id": 21,
+      "topic": "💳 I. Formas de Pagamento",
+      "question": "Qual o valor mínimo da parcela no cartão ?",
+      "answer": "O valor mínimo da parcela é de R$30,00 para todas as modalidades de pagamento parcelado."
+    },
+    {
+      "id": 22,
+      "topic": "💳 I. Formas de Pagamento",
+      "question": "Como funciona o PIX e PicPay ?",
+      "answer": "PIX é pagamento por transferência instantânea ou por QR-Code gerado na maquininha POS. PICPAY é pagamento via carteira digital."
+    },
+    {
+      "id": 23,
+      "topic": "💳 I. Formas de Pagamento",
+      "question": "Quais bandeiras de cartão são aceitas ?",
+      "answer": "As bandeiras aceitas são: Visa, Master Card, American Express, Ello, Dinners, Hipercad, Banescard, Caball, FortBrasil (cartão próprio) e outros."
+    },
+    {
+      "id": 24,
+      "topic": "💳 I. Formas de Pagamento",
+      "question": "Como funciona o cartão FortBrasil ?",
+      "answer": "Nas compras com o Cartão próprio Bandeira FortBrasil poderá ser parcelado em até 8x sem juros, com parcela mínima de R$30,00."
+    },
+    {
+      "id": 25,
+      "topic": "💳 I. Formas de Pagamento",
+      "question": "Preciso de documento para pagar com cartão ?",
+      "answer": "De acordo com a lei estadual Nº 8795/2008, cartões de crédito e débito deverão ser aceitos apenas mediante documento de identidade do titular. Para cartões sem chip, é obrigatório solicitar documento de identidade com foto. Para cartões com chip, deve solicitar documento, porém não será obrigatória a apresentação se o portador tiver senha pessoal."
+    },
+    {
+      "id": 26,
+      "topic": "💳 I. Formas de Pagamento",
+      "question": "Como funciona o pagamento em cheque ?",
+      "answer": "Pagamento em cheque pode ser parcelado em até 3x sem juros com parcelas mínimas de R$30,00, MEDIANTE CONSULTA DE CRÉDITO. É obrigatório apresentar documento de identidade com foto do titular da conta."
+    },
+    {
+      "id": 27,
+      "topic": "🏪 II. Crediário",
+      "question": "Como funciona o crediário próprio ?",
+      "answer": "O crediário próprio Blink Jeans oferece crédito através de limite financeiro para compra de produtos. Valor mínimo por parcela R$30,00, quantidade de parcelas padrão até 4x. Para ofertar 5x a compra deve ser superior a R$400,00 e para compras a partir de R$1.000,00 até 10x. Requer análise baseada em histórico de pagamento, frequência de compra, atualização cadastral e limite. É obrigatório apresentar documento de identidade com foto."
+    },
+    {
+      "id": 28,
+      "topic": "🏪 II. Crediário",
+      "question": "Quantas parcelas posso fazer no crediário próprio ?",
+      "answer": "No crediário próprio: até 4x sem juros (parcela mínima R$30,00), 5x para compras acima de R$400,00, e até 10x para compras acima de R$1.000,00."
+    },
+    {
+      "id": 29,
+      "topic": "🏪 II. Crediário",
+      "question": "Qual o valor mínimo da parcela no crediário ?",
+      "answer": "O valor mínimo por parcela no crediário próprio é de R$30,00."
+    },
+    {
+      "id": 30,
+      "topic": "🏪 II. Crediário",
+      "question": "Posso abrir novo crediário próprio ?",
+      "answer": "Não é permitida a abertura de novos cadastros para o crediário próprio nas lojas do ES. Contudo será permitida a abertura de novos crediários nas lojas Porto Seguro e Itamajarú."
+    },
+    {
+      "id": 31,
+      "topic": "🏪 II. Crediário",
+      "question": "Como é feita a análise do crediário próprio ?",
+      "answer": "A análise deve avaliar: histórico de pagamento e frequência de compra do cliente; última atualização de cadastro; limite de compra do cliente; situação financeira no SPC/Serasa. Caso haja restrição no CPF, o gerente deve realizar análise mais aprofundada. A crediarista não pode autorizar venda sem autorização do Gerente."
+    },
+    {
+      "id": 32,
+      "topic": "🏪 II. Crediário",
+      "question": "Qual o limite de compra no crediário ?",
+      "answer": "O limite deve ser baseado em 4 pilares: frequência e valores de compra nos últimos 12 meses; histórico de pontualidade nos últimos 12 meses; renda atual; situação financeira no SPC/Serasa atual."
+    },
+    {
+      "id": 33,
+      "topic": "🏪 II. Crediário",
+      "question": "Como atualizar cadastro do crediário ?",
+      "answer": "A atualização cadastral deve ser realizada no mínimo a cada 3 meses para todos os clientes. Inclui confirmação de dados de endereço, telefones, renda, referências comerciais, Serasa e SPC. É fundamental para manter contato e facilitar possíveis cobranças."
+    },
+    {
+      "id": 34,
+      "topic": "🏪 II. Crediário",
+      "question": "O que acontece se atrasar o crediário ?",
+      "answer": "Se o cliente ficar inadimplente, será necessário quitar os débitos para realizar novas compras. O cliente já demonstra histórico ruim e precederá análise mais apurada pelo Gerente."
+    },
+    {
+      "id": 35,
+      "topic": "🏪 II. Crediário",
+      "question": "Quando o nome vai para o SPC ?",
+      "answer": "Para as lojas do ES: caso o cliente fique com mais de 30 dias inadimplente, a loja deve acionar o SPC. Para as lojas da BA: caso o cliente fique com mais de 20 dias inadimplente, a loja deve acionar o SPC."
+    },
+    {
+      "id": 36,
+      "topic": "🏪 II. Crediário",
+      "question": "Como funciona a perda do benefício ?",
+      "answer": "O cliente poderá perder o benefício de crediário próprio de forma automática caso fique acima de 60 dias em atraso."
+    },
+    {
+      "id": 37,
+      "topic": "🏪 II. Crediário",
+      "question": "Qual a diferença entre ES e BA para inadimplência ?",
+      "answer": "ES: SPC após 30 dias de inadimplência, prazo para análise de defeitos 15 dias. BA: SPC após 20 dias de inadimplência, prazo para análise de defeitos 30 dias."
+    },
+    {
+      "id": 38,
+      "topic": "👥 III. Abordagem",
+      "question": "Como funciona o sistema 'O da Vez' ?",
+      "answer": "A Blink Jeans trabalha no sistema 'O DA VEZ'. Todos os vendedores fazem parte de uma lista definindo a sequência de atendimento. A lista é feita diariamente com critério de ordem de chegada. O vendedor que chega primeiro coloca seu nome na lista para o 1º atendimento, o segundo para o 2º atendimento e assim por diante. O vendedor deve imediatamente entrar na loja e colocar seu nome na lista, caso contrário perde a primazia."
+    },
+    {
+      "id": 39,
+      "topic": "👥 III. Abordagem",
+      "question": "Como é feito o atendimento na loja ?",
+      "answer": "O vendedor 'da vez' deve estar próximo à entrada da loja para efetuar pronto atendimento ao cliente que entrar. Não deve estar fazendo outra atividade que não seja atender. Entende-se cliente válido qualquer pessoa que entrar da porta para dentro, mesmo que apenas sondando a loja. O trabalho é atender com excelência qualquer cliente com objetivo de vender algo."
+    },
+    {
+      "id": 40,
+      "topic": "👥 III. Abordagem",
+      "question": "Quais são as regras de abordagem ?",
+      "answer": "Regras: estar próximo à entrada, não fazer outras atividades durante atendimento, não negociar trocas de 'vez', respeitar a lista de sequência. Se não estiver pronto para atendimento, vai para fim da fila. A gerente distribui atendimentos quando todas estão ocupadas, seguindo rodízio equitativo. Se cliente preferir vendedor específico, a escolha é respeitada."
+    },
+    {
+      "id": 41,
+      "topic": "👥 III. Abordagem",
+      "question": "Como funciona a distribuição de clientes ?",
+      "answer": "A gerente é responsável pela distribuição dos atendimentos para garantir ambiente harmonioso. Quando todas as vendedoras estão ocupadas, novos clientes são distribuídos de forma equitativa seguindo ordem de rodízio. Se cliente preferir vendedora específica, essa escolha será respeitada."
+    },
+    {
+      "id": 42,
+      "topic": "👥 III. Abordagem",
+      "question": "O que o vendedor deve fazer no atendimento ?",
+      "answer": "O vendedor deve: atender com excelência qualquer cliente; prestar melhor atendimento independente do cliente; não pré-definir se cliente tem potencial ou não; tratar todos igualmente; mesmo para pagamento de crediário ou troca, deve assessorar oferecendo novos produtos e estimulando vendas."
+    },
+    {
+      "id": 43,
+      "topic": "👥 III. Abordagem",
+      "question": "Quais aspectos da abordagem são importantes ?",
+      "answer": "Exemplo de abordagem: 'Bem-vindo à Blink Jeans! Como posso ajudá-lo a encontrar o look perfeito hoje? Temos ótimas promoções e novidades incríveis que você vai adorar. Sinta-se à vontade para experimentar o que quiser. Estou aqui para garantir que você tenha a melhor experiência de compra!' Após atender pedido inicial, nunca perguntar 'mais o que?' e sim oferecer novos produtos."
+    },
+    {
+      "id": 44,
+      "topic": "👥 III. Abordagem",
+      "question": "Como deve ser a apresentação do vendedor ?",
+      "answer": "O vendedor deve estar: uniformizado; asseado e com higiene pessoal bem cuidada; barba feita; penteado. Preferencialmente: maquiada; usar calçado fechado ou com fechamento."
+    },
+    {
+      "id": 45,
+      "topic": "👥 III. Abordagem",
+      "question": "O que o vendedor não deve fazer ?",
+      "answer": "O vendedor não deve: mascar chicletes na loja; usar bermuda; usar chinelo de dedo ou rasteirinha; usar celular em horário de atendimento; usar boné ou chapéu; usar piercing aparente; bater papo em excesso no horário de trabalho; usar caneta no cabelo; discutir no meio da loja. Deve guardar imediatamente produtos não vendidos antes de atender outro cliente."
+    },
+    {
+      "id": 46,
+      "topic": "📦 IV. Reserva de Mercadoria",
+      "question": "Como funciona a reserva de produtos ?",
+      "answer": "As reservas podem se dar por vários motivos: cartão que não passou, buscar novo meio de pagamento, pedir opinião de outra pessoa, trazer alguém para provar as roupas, etc. Todos os produtos reservados devem seguir procedimento específico com formulário obrigatório."
+    },
+    {
+      "id": 47,
+      "topic": "📦 IV. Reserva de Mercadoria",
+      "question": "Por quanto tempo posso reservar um produto ?",
+      "answer": "Os produtos reservados podem ser guardados por prazo máximo de 48h a partir da data/hora da reserva. O vendedor deve informar ao cliente sobre esse prazo e deixar claro que após esse período os produtos serão colocados novamente à venda automaticamente sem necessidade de comunicar."
+    },
+    {
+      "id": 48,
+      "topic": "📦 IV. Reserva de Mercadoria",
+      "question": "Qual o procedimento para reservar mercadoria ?",
+      "answer": "Procedimento: 1) Anotar dados completos do formulário (enviado por email) e colocar junto da sacola com produtos reservados; 2) É obrigatório preenchimento de todos os campos do formulário; 3) Cada loja deve ter local específico para todos os produtos reservados; 4) O Gerente é responsável por garantir cumprimento do procedimento."
+    },
+    {
+      "id": 49,
+      "topic": "📦 IV. Reserva de Mercadoria",
+      "question": "Preciso preencher formulário para reserva ?",
+      "answer": "É obrigatório o preenchimento de todos os campos do formulário enviado por email a todas as lojas. O formulário deve ser colocado junto da sacola com os produtos reservados para o cliente."
+    },
+    {
+      "id": 50,
+      "topic": "📦 IV. Reserva de Mercadoria",
+      "question": "Reserva vale para uniformes profissionais ?",
+      "answer": "O prazo de 48h não é válido para clientes de Uniforme Profissional, porém todos os outros procedimentos são obrigatórios, inclusive preenchimento de formulário e local de guarda dos produtos reservados."
+    },
+    {
+      "id": 51,
+      "topic": "📦 IV. Reserva de Mercadoria",
+      "question": "O que acontece após 48h de reserva ?",
+      "answer": "Após 48h, caso o cliente não tenha vindo buscar a mercadoria, os produtos devem ser novamente colocados à venda na loja para qualquer cliente que desejar comprar. Esse procedimento é válido para clientes normais e funcionários."
+    },
+    {
+      "id": 52,
+      "topic": "📦 V. Recebimento e Lançamento",
+      "question": "Como é feito o recebimento de mercadorias ?",
+      "answer": "Semanalmente as lojas recebem novas mercadorias próprias e de outros fornecedores. É necessário correto procedimento para conferência e entrada, a fim de ter estoques ajustados e parte burocrática correta. É responsabilidade principal do Gerente realizar a conferência, podendo utilizar apoio de outros colaboradores."
+    },
+    {
+      "id": 53,
+      "topic": "📦 V. Recebimento e Lançamento",
+      "question": "Quem é responsável pela conferência ?",
+      "answer": "É de responsabilidade principal que o Gerente realize a conferência das mercadorias recebidas, podendo utilizar apoio de outros colaboradores para auxiliar na conferência e entrada sistêmica. Apenas em caso de ausência por dias, pode delegar a outra pessoa. Caso contrário, é responsabilidade intransferível do Gerente."
+    },
+    {
+      "id": 54,
+      "topic": "📦 V. Recebimento e Lançamento",
+      "question": "Como conferir produtos próprios ?",
+      "answer": "Produtos próprios devem ser conferidos através do romaneio enviado pela fábrica onde constam tamanhos, referências e quantidades enviadas. Com base nesta informação, realiza-se conferência do físico com o registro/romaneio. Caso não seja encontrada divergência, a mercadoria deve ser dada entrada no sistema pelo Gerente."
+    },
+    {
+      "id": 55,
+      "topic": "📦 V. Recebimento e Lançamento",
+      "question": "Como conferir produtos de terceiros ?",
+      "answer": "Produtos de terceiros devem ser conferidos através da Nota Fiscal enviada pelo fornecedor onde constam informações de referências, tamanhos e quantidades das mercadorias enviadas. Com base nesta informação, realiza-se conferência do físico com a nota fiscal. Caso não haja divergência, dar entrada no sistema."
+    },
+    {
+      "id": 56,
+      "topic": "📦 V. Recebimento e Lançamento",
+      "question": "O que fazer em caso de divergência ?",
+      "answer": "Em caso de divergência entre Romaneio e Físico (produtos próprios): entrar em contato com responsável pela transferência imediatamente. Da fábrica: contatar supervisor de expedição. De outra loja: contatar Gerente da loja. Para produtos terceiros: compra direta pela loja - contatar fornecedor; compra não direta - contatar assistente comercial."
+    },
+    {
+      "id": 57,
+      "topic": "📦 V. Recebimento e Lançamento",
+      "question": "Como dar entrada no sistema ?",
+      "answer": "Após conferência sem divergências, a mercadoria deve ser dada entrada no sistema pelo Gerente. Em caso de divergência, contatar o responsável antes de dar entrada conforme procedimentos específicos para produtos próprios ou de terceiros."
+    },
+    {
+      "id": 58,
+      "topic": "🏪 VI. Arrumação de Loja",
+      "question": "Como fazer a arrumação geral da loja ?",
+      "answer": "É responsabilidade do Gerente de Loja através do auxiliar de serviços gerais manter a loja organizada, limpa e com ambiente agradável para o perfeito acolhimento do cliente."
+    },
+    {
+      "id": 59,
+      "topic": "🏪 VI. Arrumação de Loja",
+      "question": "Como arrumar a vitrine ?",
+      "answer": "A vitrine tem como principal objetivo convidar o cliente a entrar na loja. Arrumação inicia-se com limpeza do espaço físico e dos manequins. É fundamental que esteja limpa, pois é a primeira parte da loja que o cliente avalia. Produtos escolhidos devem ser de lançamento, promocionais e de baixo giro. Cores devem estar 'falando entre si'. Preços devem estar visíveis em cada peça."
+    },
+    {
+      "id": 60,
+      "topic": "🏪 VI. Arrumação de Loja",
+      "question": "Com que frequência renovar a vitrine ?",
+      "answer": "A vitrine deve ser renovada ao menos uma vez por semana (normalmente no dia de recebimento de mercadoria de cada loja). A definição dos produtos para exposição é escolha de cada Gerente conforme necessidades da loja."
+    },
+    {
+      "id": 61,
+      "topic": "🏪 VI. Arrumação de Loja",
+      "question": "Como organizar araras e manequins ?",
+      "answer": "Araras, manequins e bancas devem ser limpos, organizados e com preços em cada produto exposto. O preço colocado na peça deve bater com o sistema. É papel do gerente garantir junto à equipe que isso seja verificado. Devem estar próximos de suas seções correspondentes para facilitar atendimento."
+    },
+    {
+      "id": 62,
+      "topic": "🏪 VI. Arrumação de Loja",
+      "question": "Como organizar as seções ?",
+      "answer": "Cada seção terá um vendedor responsável por organizar, repor e solicitar mercadorias faltantes ao gerente quando necessário. As seções devem estar organizadas durante toda semana, ficando sob responsabilidade do Gerente acompanhar junto à equipe o melhor método para garantir organização."
+    },
+    {
+      "id": 63,
+      "topic": "🏪 VI. Arrumação de Loja",
+      "question": "Como arrumar o estoque ?",
+      "answer": "Os vendedores são responsáveis pela arrumação e organização do estoque. A divisão das seções por cada vendedor deve ser feita pelo Gerente, buscando equalizar e dividir o trabalho entre vendedores conforme tamanho de cada seção, para que o trabalho seja repartido o mais justamente possível."
+    },
+    {
+      "id": 64,
+      "topic": "🏪 VI. Arrumação de Loja",
+      "question": "Quem é responsável pela organização ?",
+      "answer": "Gerente é responsável pela organização geral com apoio do auxiliar de serviços gerais. Vendedores são responsáveis pelas seções específicas e organização do estoque. O Gerente define métodos de organização e acompanha execução pela equipe."
+    },
+    {
+      "id": 65,
+      "topic": "👕 VII. Provadores",
+      "question": "Como funciona o controle do provador ?",
+      "answer": "O provador deve ser com cortinas de pano e com altura mínima para o piso a fim de que se possa ver se há clientes ou não no mesmo. Cada cliente só pode levar no máximo quatro peças para o provador, que devem ser conferidas na saída do cliente pelo vendedor."
+    },
+    {
+      "id": 66,
+      "topic": "👕 VII. Provadores",
+      "question": "Quantas peças posso levar para o provador ?",
+      "answer": "Cada cliente só poderá levar no máximo quatro peças para o provador, que devem ser conferidas na saída do cliente pelo vendedor."
+    },
+    {
+      "id": 67,
+      "topic": "👕 VII. Provadores",
+      "question": "Como funciona o sistema de crachás ?",
+      "answer": "Cada vendedor terá um crachá com número de peças a ser dado ao cliente para facilitar controle. Esse crachá deve constar o nome do vendedor e o número de peças entregues para o cliente provar. Quando o cliente terminar de provar as roupas, deve devolver o crachá ao vendedor."
+    },
+    {
+      "id": 68,
+      "topic": "👕 VII. Provadores",
+      "question": "O vendedor deve acompanhar no provador ?",
+      "answer": "É importante que o vendedor permaneça próximo ao provador dando assistência ao cliente, salvo nos dias de muito movimento."
+    },
+    {
+      "id": 69,
+      "topic": "🔄 VIII. Troca de Produtos",
+      "question": "Como fazer troca de produtos ?",
+      "answer": "Quando cliente retorna solicitando troca por qualquer motivo que não seja defeito, deve receber primeiro atendimento do vendedor 'da vez'. O vendedor deve conduzir o cliente até o Gerente para avaliar a peça e determinar se está em perfeito estado e dentro das regras previstas. Se cliente procurar vendedor específico, deve ser encaminhado ao vendedor preferencial."
+    },
+    {
+      "id": 70,
+      "topic": "🔄 VIII. Troca de Produtos",
+      "question": "Qual o prazo para trocar produtos ?",
+      "answer": "Prazo máximo de 7 dias corridos a partir do dia da compra para troca sem defeito. Para atacadistas, prazo máximo para troca é de 30 dias a partir do dia da compra."
+    },
+    {
+      "id": 71,
+      "topic": "🔄 VIII. Troca de Produtos",
+      "question": "Quais produtos não podem ser trocados ?",
+      "answer": "Não é permitida troca de: roupa íntima; roupas brancas; peças em 'PROMOÇÃO' (produtos que tiveram mais de 20% de desconto sobre preço base nos últimos 6 meses). Para atacadistas: não é permitida troca de peças fora da estação e de peças da promoção."
+    },
+    {
+      "id": 72,
+      "topic": "🔄 VIII. Troca de Produtos",
+      "question": "Preciso da etiqueta para trocar ?",
+      "answer": "A troca somente pode ocorrer com a presença fixa da etiqueta na peça. A troca em qualquer loja da rede Blink é permitida apenas com a etiqueta na peça. A troca pode ser realizada apenas uma vez para a mesma peça, depois de finalizar a troca, a etiqueta da nova peça deve ser retirada no caixa."
+    },
+    {
+      "id": 73,
+      "topic": "🔄 VIII. Troca de Produtos",
+      "question": "Posso trocar produtos em promoção ?",
+      "answer": "Não é permitida a troca de peças em 'PROMOÇÃO'. Entende-se 'Promoção' produtos que tiveram mais de 20% de desconto sobre o preço base nos últimos 6 meses."
+    },
+    {
+      "id": 74,
+      "topic": "🔄 VIII. Troca de Produtos",
+      "question": "Como funciona a troca para atacadistas ?",
+      "answer": "Para atacadistas: prazo máximo para troca de 30 dias a partir do dia da compra; não é permitida troca de peças fora da estação; não é permitida troca de peças da PROMOÇÃO."
+    },
+    {
+      "id": 75,
+      "topic": "🔄 VIII. Troca de Produtos",
+      "question": "Posso trocar em qualquer loja da rede ?",
+      "answer": "A troca em qualquer loja da rede Blink é permitida apenas com a etiqueta na peça."
+    },
+    {
+      "id": 76,
+      "topic": "🔄 VIII. Troca de Produtos",
+      "question": "Como emitir nota fiscal de troca ?",
+      "answer": "Deve ser emitida NF-Eletrônica de entrada com 'cfop: 1202' natureza da operação: 'anulação de venda'. No campo destinatário lançar código da própria loja. Em fatura/forma de pagamento não pode conter informação. No campo Item deve conter somente o que cliente está trocando, com valor total já com descontos. Colocar número do cupom da primeira venda no campo observações. Após validação, salvar, validar e transmitir para SEFAZ. Imprimir com carimbo e assinatura, enviar cópia para contabilidade."
+    },
+    {
+      "id": 77,
+      "topic": "🛠️ IX. Produtos com Defeito",
+      "question": "Como proceder com produtos defeituosos ?",
+      "answer": "Quando cliente retorna informando defeito, deve procurar o Gerente para demonstrar a peça e problema. Gerente deve analisar quando cliente realizou a compra. O CDC estabelece direito de reclamar vícios aparentes no prazo máximo de 90 dias. Dentro deste prazo, Blink deve analisar se problema ocorreu por fabricação ou mal uso."
+    },
+    {
+      "id": 78,
+      "topic": "🛠️ IX. Produtos com Defeito",
+      "question": "Qual o prazo para reclamar defeitos ?",
+      "answer": "O artigo 26 do Código de Defesa do Consumidor (CDC) estabelece o direito de reclamar de vícios aparentes ou de fácil constatação no prazo máximo de 90 dias."
+    },
+    {
+      "id": 79,
+      "topic": "🛠️ IX. Produtos com Defeito",
+      "question": "Como é feita a análise técnica ?",
+      "answer": "O Gerente deve preencher 'ficha de análise técnica' com todos os dados necessários, colher assinatura do cliente e também assinar a ficha impressa. Esta ficha deve ser enviada via email para área de Produção/Produtos (Ludimila, Leyber e Kamila) e via impressa enviada à fábrica junto com o produto. O setor responsável analisará o produto e dará retorno sobre permissão da troca."
+    },
+    {
+      "id": 80,
+      "topic": "🛠️ IX. Produtos com Defeito",
+      "question": "O que fazer se o defeito for de mal uso ?",
+      "answer": "Caso Gerente identifique que problema foi gerado por mal uso, deve tentar convencer cliente sutilmente que produto foi fabricado para todas as lojas e é primeira reclamação na empresa. Se cliente aceitar argumentações, caso encerrado. Se não aceitar, Gerente informa que produto será avaliado pelo setor técnico da empresa."
+    },
+    {
+      "id": 81,
+      "topic": "🛠️ IX. Produtos com Defeito",
+      "question": "Qual o prazo para retorno da análise ?",
+      "answer": "Prazo de no máximo 15 dias para retorno ao cliente nas lojas do Espírito Santo e 30 dias para as lojas da Bahia."
+    },
+    {
+      "id": 82,
+      "topic": "🛠️ IX. Produtos com Defeito",
+      "question": "Como funciona para ES e BA ?",
+      "answer": "Espírito Santo: prazo de retorno da análise de 15 dias. Bahia: prazo de retorno da análise de 30 dias. Defeitos consertáveis (Botão, Zíper, Descosturado) podem ser encaminhados para setor de consertos com mesmo prazo de retorno."
+    },
+    {
+      "id": 83,
+      "topic": "🛠️ IX. Produtos com Defeito",
+      "question": "O que fazer com defeitos antes da venda ?",
+      "answer": "Defeitos 'consertáveis': Enviar para setor de conserto da fábrica (sem botão, problemas no zíper, descosturando, etc.). Defeitos não 'consertáveis': Classificar como Leves Defeitos com desconto de 20% sobre preço base. Para defeitos graves que não se venderá com 20% de desconto: devolver produto defeituoso para fábrica."
+    },
+    {
+      "id": 84,
+      "topic": "🎨 X. Bordado",
+      "question": "Como solicitar bordados personalizados ?",
+      "answer": "Na negociação, cliente repassa para vendedora a logomarca da empresa acrescida de explicações como: tamanho, cores das linhas, localização e todos os dados necessários conforme formulário. Vendedora encaminha logomarca via malote ou arquivo digital para setor de bordado, onde será feito desenvolvimento da arte, teste de bordado e 1 amostra para aprovação do cliente."
+    },
+    {
+      "id": 85,
+      "topic": "🎨 X. Bordado",
+      "question": "Qual o preço do bordado ?",
+      "answer": "Tabela de preços: PEQUENO (até 5000 pontos): R$5,00; MÉDIO (de 5001 a 7500 pontos): R$7,50; GRANDE (de 7501 a 15000 pontos): R$10,00; EXTRA GRANDE (acima de 15001 pontos): Consultar Fábrica (Leyber). Quando a peça tiver mais de um bordado, valor da arte será cobrado por cada arte de bordado."
+    },
+    {
+      "id": 86,
+      "topic": "🎨 X. Bordado",
+      "question": "Quanto tempo demora para fazer bordado ?",
+      "answer": "Prazo de entrega: 30 dias úteis após aprovação da arte/pedido. O prazo do programador para retorno da amostra desenvolvida à loja é de 2 dias úteis."
+    },
+    {
+      "id": 87,
+      "topic": "🎨 X. Bordado",
+      "question": "Preciso pagar pela arte do bordado ?",
+      "answer": "A vendedora informa ao cliente que quando não tiver arte pronta na empresa vai precisar desenvolver, e o preço é R$35,00 por arte de bordado. O valor do bordado dependerá da quantidade de pontos gastos na realização da amostra."
+    },
+    {
+      "id": 88,
+      "topic": "🎨 X. Bordado",
+      "question": "Qual a tabela de preços do bordado ?",
+      "answer": "Tabela completa: PEQUENO (até 5000 pontos): R$5,00, Arte R$35,00; MÉDIO (5001-7500 pontos): R$7,50, Arte R$35,00; GRANDE (7501-15000 pontos): R$10,00, Arte R$35,00; EXTRA GRANDE (acima de 15001): Consultar Fábrica, Arte R$35,00."
+    },
+    {
+      "id": 89,
+      "topic": "🎨 X. Bordado",
+      "question": "Como funciona o desenvolvimento da arte ?",
+      "answer": "O programador desenvolve a arte, faz uma amostra discriminando quantidade de pontos do bordado e encaminha formulário via malote para vendedora com amostra afixada. Vendedora recebe, confere pedido e contata cliente para vir à loja aprovar amostra. Após aprovação, loja encaminha formulário assinado para setor de bordado."
+    },
+    {
+      "id": 90,
+      "topic": "🎨 XI. Estampa",
+      "question": "Como solicitar estampas personalizadas ?",
+      "answer": "Na negociação, cliente repassa para vendedora a logomarca da empresa acrescida de explicações como: tamanho, cores das linhas, localização e todos os dados necessários conforme formulário. O estampador faz amostra e encaminha via malote para vendedora com formulário contendo informações da arte."
+    },
+    {
+      "id": 91,
+      "topic": "🎨 XI. Estampa",
+      "question": "Qual o preço das estampas ?",
+      "answer": "Tabela de preços por cor: Pequena/Bolso (1 cor): R$1,00, (2 cores): R$2,00; 1 Pequena e 1 grande/Bolso + costas (1 cor): R$2,00, (2 cores): R$4,00; 2 pequenas e 1 grande/Bolso + Manga + costa (1 cor): R$3,00, (2 cores): R$6,00; 1 média e 1 grande/Frente (1 cor): R$3,00, (2 cores): R$6,00; Cromia: R$6,00."
+    },
+    {
+      "id": 92,
+      "topic": "🎨 XI. Estampa",
+      "question": "Quanto custa a arte para estampa ?",
+      "answer": "Quadro de arte para desenvolvimento: Tamanho pequeno sem complexidade até duas cores: R$20,00; Tamanho médio complexidade média até 3 cores: R$35,00; Tamanho grande até 4 cores grande complexidade: R$45,00 a R$90,00; Tamanho 'full print' cromia total ou parcial: R$90,00. Caso cliente já tenha tela na empresa não haverá cobrança."
+    },
+    {
+      "id": 93,
+      "topic": "🎨 XI. Estampa",
+      "question": "Qual o prazo para entrega de estampas ?",
+      "answer": "Prazo de entrega: 30 dias úteis após aprovação da arte/pedido, salvo peça em estoque na rede de lojas. O prazo do programador para retorno da amostra desenvolvida à loja é de 5 dias úteis."
+    },
+    {
+      "id": 94,
+      "topic": "🎨 XI. Estampa",
+      "question": "Como funciona a tabela de preços por cor ?",
+      "answer": "Tabela detalhada: Pequena/Bolso (1 cor R$1,00, 2 cores R$2,00); 1 Pequena + 1 grande/Bolso + costas (1 cor R$2,00, 2 cores R$4,00); 2 pequenas + 1 grande/Bolso + Manga + costa (1 cor R$3,00, 2 cores R$6,00); 1 média + 1 grande/Frente (1 cor R$3,00, 2 cores R$6,00); Frente + costas Cromia R$6,00."
+    },
+    {
+      "id": 95,
+      "topic": "💰 XII. Fechamento de Caixa",
+      "question": "Como fazer o fechamento de caixa ?",
+      "answer": "Ao final do dia, operador de caixa deve: 1) Colocar vendas de cada vendedor em sequência seguindo numeração do bloco; 2) Separar vias de cartão por bandeira e somar; 3) Separar vendas de crediário próprio e somar; 4) Separar vendas de crediário para funcionários e somar; 5) Separar cheques pré-datados e somar; 6) Separar cheques à vista e somar; 7) Separar recebimento de duplicatas e somar; 8) Separar trocas por vendedor."
+    },
+    {
+      "id": 96,
+      "topic": "💰 XII. Fechamento de Caixa",
+      "question": "Quais relatórios preciso emitir no fechamento ?",
+      "answer": "Os relatórios que devem ser emitidos são: Relatório de 'Sangria' e Relatório de 'Caixa Diário'. No visual, enviar arquivo com 5 dias anteriores à data da emissão."
+    },
+    {
+      "id": 97,
+      "topic": "💰 XII. Fechamento de Caixa",
+      "question": "Como conferir as vendas no sistema ?",
+      "answer": "Ir no Visual Control > Vendas-Relatórios > Relatórios diversos de vendas > Período: colocar data do fechamento do caixa > Na terceira coluna marcar forma de pagamento/vendedor > No último quadro formas de pagamentos, desmarcar todos e depois marcar um a um menos a forma de pagamento (troca) > Confirmar emissão relatórios: sim > Visualizar as vendas e confirmar se está correto."
+    },
+    {
+      "id": 98,
+      "topic": "💰 XII. Fechamento de Caixa",
+      "question": "Como fazer o envelopamento do caixa ?",
+      "answer": "1) Juntar todas as somas de caixa de forma separada, assim como foi conferida; 2) Incluir impressões dos relatórios: Sangria, Caixa diário; 3) Colocar tudo organizado dentro de um envelope; 4) Envelope deve ser obrigatoriamente identificado com nome da loja e data; 5) Não enviar 'Contas a Vencer' dentro do caixa, pois correrá risco de não serem encaminhadas para setor financeiro no prazo adequado."
+    },
+    {
+      "id": 99,
+      "topic": "💰 XII. Fechamento de Caixa",
+      "question": "Como separar as formas de pagamento ?",
+      "answer": "Separar: vias de cartão de crédito por bandeira; vendas de crediário próprio para clientes; vendas de crediário para funcionários; vendas de cheques pré-datados; vendas de cheques à vista; recebimento de duplicatas (Crediário próprio); trocas por vendedor. Identificar em todas as somatórias as formas de pagamento com data, loja e assinatura do responsável."
+    },
+    {
+      "id": 100,
+      "topic": "💰 XII. Fechamento de Caixa",
+      "question": "Como usar o Visual Control para conferência ?",
+      "answer": "Acesse Visual Control > Vendas > Relatórios > Relatórios diversos de vendas, selecione a data, marque formas de pagamento/vendedor, desmarque 'troca', e visualize as vendas para conferir se está tudo correto. Em caso de troca, conferir vendas totais dos vendedores eliminando o campo troca."
+    },
+    {
+      "id": 101,
+      "topic": "📝 XIII. Bloco de Vendas",
+      "question": "Como funciona o bloco de vendas ?",
+      "answer": "O Bloco de vendas foi criado para ser controle nas vendas realizadas de cada vendedor e onde contém as principais informações dos produtos vendidos. Cada Bloco vem com número sequencial (em vermelho) que precisa ser respeitado no momento da venda, ou seja, anotações das vendas devem respeitar ordem do menor para o maior de forma cronológica."
+    },
+    {
+      "id": 102,
+      "topic": "📝 XIII. Bloco de Vendas",
+      "question": "Qual a sequência para preencher ?",
+      "answer": "As anotações das vendas nas folhas do Bloco devem respeitar a ordem do menor para o maior de forma cronológica das vendas. O preenchimento de todos os campos das partes 1, 2 e 3 são obrigatórios, exceto a 'Modalidade de Venda'. Não é permitido envio do caixa sem que a sequência do bloco de vendas por vendedor seja respeitada na íntegra."
+    },
+    {
+      "id": 103,
+      "topic": "📝 XIII. Bloco de Vendas",
+      "question": "Quantas partes tem o bloco ?",
+      "answer": "As folhas do Bloco são divididas em 4 partes: PARTE 1: Via do Vendedor (nº orçamento, cód. vendedor, valor total); PARTE 2: Via para o caixa com mercadorias (todos os dados da venda); PARTE 3: Via do cliente para pagamento (todos os dados da venda); PARTE 4: Conferência (apenas código, tamanho e quantidade dos produtos)."
+    },
+    {
+      "id": 104,
+      "topic": "📝 XIII. Bloco de Vendas",
+      "question": "Como proceder com vendas canceladas ?",
+      "answer": "No caso de cancelamento de vendas, é necessário que seja escrito nas partes 1, 2 e 3 a palavra 'CANCELADO' bem legível e constar as assinaturas do gerente, caixa e vendedor. O envio das partes 2 e 3 são obrigatórios no fechamento do caixa, inclusive as vendas canceladas."
+    },
+    {
+      "id": 105,
+      "topic": "📝 XIII. Bloco de Vendas",
+      "question": "O que fazer em caso de rasura ?",
+      "answer": "Em caso de rasura nos campos de 'Valor', 'Quant. de Peças' e 'Cód. Vendedor' será necessário a assinatura do Gerente."
+    },
+    {
+      "id": 106,
+      "topic": "📝 XIII. Bloco de Vendas",
+      "question": "Como controlar a numeração sequencial ?",
+      "answer": "Caso seja encontrado algum bloco onde a sequência numeral esteja errada, é necessário informar ao Financeiro essa situação. Caso existam blocos parcialmente utilizados por vendedores que saíram da empresa, podem ser utilizados por outros vendedores a partir da sequência final, desde que seja avisado ao Financeiro para evitar desperdício."
+    },
+    {
+      "id": 107,
+      "topic": "📞 XIV. Cobrança",
+      "question": "Como funciona a cobrança de inadimplentes ?",
+      "answer": "Através do sistema visual, retirar relatório de inadimplência de 10 em 10 dias. Clientes que atrasam duplicatas 10 dias entrarão na listagem de cobrança. Essa listagem deve ser entregue à pessoa responsável pela cobrança para realizar contatos objetivando quitação. A cobrança inicia a partir de dez dias de atraso e colaborador deve respeitar agendamento do devedor."
+    },
+    {
+      "id": 108,
+      "topic": "📞 XIV. Cobrança",
+      "question": "Quando começam os juros de atraso ?",
+      "answer": "Em caso de inadimplência, o CLIENTE arcará com juros de 0,30% por dia de atraso. Esse custo já está parametrizado em sistema e é calculado automaticamente."
+    },
+    {
+      "id": 109,
+      "topic": "📞 XIV. Cobrança",
+      "question": "Como é feito o desconto nos juros ?",
+      "answer": "Tabela de progressão de descontos dos juros: Acima de 5 anos – até 100% dos juros; Acima de 4 anos – até 80% dos juros; Acima de 3 anos – até 70% dos juros; Acima de 2 anos – até 50% dos juros; Acima de 1 ano – até 30% dos juros; Acima de 90 dias de atraso até 10% de desconto. Em caso do cliente desejar desconto acima do aprovado, contatar a Diretoria."
+    },
+    {
+      "id": 110,
+      "topic": "📞 XIV. Cobrança",
+      "question": "Qual o procedimento de cobrança ?",
+      "answer": "Procedimento: 1) Retirar relatório de inadimplência a cada 10 dias; 2) Realizar contatos com clientes; 3) Agendar quitação e acompanhar até pagamento; 4) Com 20 dias de atraso, cliente receberá carta formal do CDL; 5) Nome será incluso no SPC NO PRAZO DE TRINTA DIAS CORRIDOS de inadimplência; 6) Para clientes com mais de 30 dias em atraso e inscritos no SPC que refizerem acordo, deve ser formalizado e assinado."
+    },
+    {
+      "id": 111,
+      "topic": "📞 XIV. Cobrança",
+      "question": "Como funciona o relatório de inadimplência ?",
+      "answer": "Através do sistema visual, retirar um relatório de inadimplência de 10 em 10 dias. Exemplo: 31/07/24. Em 10/07/24, a listagem será tirada do dia 20/07/24 ao dia 31/07/24. Clientes que atrasam as duplicatas 10 dias entrarão na listagem de cobrança."
+    },
+    {
+      "id": 112,
+      "topic": "📞 XIV. Cobrança",
+      "question": "Quem é responsável pela cobrança ?",
+      "answer": "A responsabilidade de realizar a cobrança é principalmente da equipe de crediaristas e caixas. No caso da loja que não possui crediaristas, os caixas deverão executar esse papel de cobrança."
+    },
+    {
+      "id": 113,
+      "topic": "📞 XIV. Cobrança",
+      "question": "Como funciona a tabela de descontos ?",
+      "answer": "Tabela de progressão de descontos dos juros: Acima de 5 anos – até 100%; Acima de 4 anos – até 80%; Acima de 3 anos – até 70%; Acima de 2 anos – até 50%; Acima de 1 ano – até 30%; Acima de 90 dias – até 10%. Obs: Em caso do cliente desejar desconto acima do aprovado, contatar a Diretoria."
+    },
+    {
+      "id": 114,
+      "topic": "💼 XV. Lançamento de Contas",
+      "question": "Como lançar contas a pagar no sistema ?",
+      "answer": "Toda despesa ou conta a pagar direcionada à loja deve ser lançada no sistema Visual Control. Ir em 'financeiro' - 'contas a pagar' - 'duplicatas'. No ícone 'novo' para iniciar lançamento. Preencher campos obrigatórios: nota fiscal, loja, emissão, data de entrada, fornecedor, local de cobrança (.), classe contábil, condições de pagamento, centro de custo, total da NF, histórico."
+    },
+    {
+      "id": 115,
+      "topic": "💼 XV. Lançamento de Contas",
+      "question": "Como usar o Visual Control ?",
+      "answer": "Vá até barra de ferramentas e selecione 'financeiro' - 'contas a pagar' - 'duplicatas' para lançamento. Para baixa dos documentos: 'financeiro' - 'contas a pagar' - 'liquidação de duplicatas'."
+    },
+    {
+      "id": 116,
+      "topic": "💼 XV. Lançamento de Contas",
+      "question": "Como preencher os campos obrigatórios ?",
+      "answer": "Campos obrigatórios: 'nota fiscal' (número do documento ou data se não houver); 'loja' (razão social do estabelecimento); 'emissão' (data que documento foi emitido); 'data de entrada' (data que documento foi recebido na loja); 'fornecedor' (pesquisar fornecedor referente); 'local de cobrança' (apenas ponto '.'); 'classe contábil' (tipo de custo/despesa); 'condições de pagamento'; 'centro de custo'; 'total da NF'; 'histórico' (referência do documento)."
+    },
+    {
+      "id": 117,
+      "topic": "💼 XV. Lançamento de Contas",
+      "question": "Como fazer a baixa de documentos ?",
+      "answer": "Para baixa: ir em 'financeiro' - 'contas a pagar' - 'liquidação de duplicatas'. Preencher 'fornecedor' e 'selecione o vencimento', escolher 'loja', depois 'pesquisar'. Selecionar documento desejado e clicar 'novo pagamento'. Preencher: 'data do pagamento', 'forma de pagamento', 'loja do pagamento', 'valor a pago', 'juros' e 'descontos' se houver."
+    },
+    {
+      "id": 118,
+      "topic": "💼 XV. Lançamento de Contas",
+      "question": "O que é classe contábil ?",
+      "answer": "Neste campo deve-se prestar muita atenção, pois será preenchido qual o tipo de custo ou despesa a que o documento representa. Essas informações serão integradas à contabilidade e servirão de base para relatórios gerenciais. A lista completa com todas as classificações contábeis de despesa foram enviadas por email para as lojas."
+    },
+    {
+      "id": 119,
+      "topic": "💼 XV. Lançamento de Contas",
+      "question": "Como organizar centro de custo ?",
+      "answer": "Deve ser indicado o centro de custo da loja. Neste campo também deve-se ter muita atenção na hora de preencher, pois essas informações servirão como base para relatórios gerenciais."
+    },
+    {
+      "id": 120,
+      "topic": "👔 Funcionários",
+      "question": "Como funciona o crediário para funcionários ?",
+      "answer": "Para funcionários loja e fábrica. Condição de pagamento: Em até 3x sem juros com parcelas mínimas de R$30,00 com exceção do mês de Dezembro ao qual poderá ser parcelado em até 4x sem juros. Desconto de 20% em mercadorias próprias e 10% para mercadorias de terceiros. Limite de compra de R$510,00, podendo apenas ser descontado R$170,00 do funcionário por parcela (regra estabelecida pelo sindicato)."
+    },
+    {
+      "id": 121,
+      "topic": "👔 Funcionários",
+      "question": "Qual o desconto para funcionários ?",
+      "answer": "Será dado desconto sobre preço de venda para mercadorias próprias de 20% e 10% para mercadorias de terceiros. Produtos em promoção não terão nenhum desconto."
+    },
+    {
+      "id": 122,
+      "topic": "👔 Funcionários",
+      "question": "Qual o limite de compra de funcionários ?",
+      "answer": "Limite de compra de R$510,00, podendo apenas ser descontado R$170,00 do funcionário por parcela. Regra estabelecida pelo sindicato. Caso funcionário já possua alguma parcela a vencer e desejar realizar nova compra, a somatória das parcelas não poderá ser maior que R$170,00."
+    },
+    {
+      "id": 123,
+      "topic": "👔 Funcionários",
+      "question": "Como funciona o desconto no cartão funcionário ?",
+      "answer": "Para funcionários loja e fábrica usando cartão. Será dado desconto sobre preço de venda para mercadorias próprias de 15% e 5% para mercadorias de terceiros. Produtos em promoção não terão nenhum desconto."
+    },
+    {
+      "id": 124,
+      "topic": "👔 Funcionários",
+      "question": "Funcionários podem parcelar em quantas vezes ?",
+      "answer": "Funcionários podem parcelar em até 3x sem juros com parcelas mínimas de R$30,00 com exceção do mês de Dezembro ao qual poderá ser parcelado em até 4x sem juros com parcelas mínimas de R$30,00."
+    },
+    {
+      "id": 125,
+      "topic": "👔 Funcionários",
+      "question": "Como funciona no mês de dezembro ?",
+      "answer": "Com exceção do mês de Dezembro ao qual poderá ser parcelado em até 4x sem juros com parcelas mínimas de R$30,00, tanto para crediário quanto para cartão funcionário."
+    },
+    {
+      "id": 126,
+      "topic": "📋 Pedido de Vendas",
+      "question": "Como preencher pedido de venda ?",
+      "answer": "📋 COMO PREENCHER PEDIDO DE VENDA:\n\n🔸 DADOS DO CLIENTE:\n• Nome completo do cliente\n• CPF ou CNPJ\n• Endereço completo (incluindo CEP)\n• Telefone para contato\n• E-mail (se disponível)\n\n🔸 DADOS DOS PRODUTOS:\n• Código do produto\n• Descrição detalhada (marca, modelo, cor, tamanho)\n• Quantidade solicitada\n• Valor unitário\n• Valor total por item\n\n🔸 INFORMAÇÕES DE PAGAMENTO:\n• Forma de pagamento escolhida\n• Número de parcelas (se aplicável)\n• Valor de entrada (se houver)\n• Vencimentos das parcelas\n\n🔸 OBSERVAÇÕES IMPORTANTES:\n• Verificar disponibilidade dos produtos no estoque\n• Confirmar prazo de entrega\n• Anotar observações especiais do cliente\n• Solicitar documentos necessários para crediário\n• Verificar se é cliente cadastrado ou novo\n\n🔸 PERSONALIZAÇÃO DE UNIFORMES:\n\nTipo de Logo:\n☐ Bordado ☐ Silk ☐ Patch ☐ DTF\n\nPosicionamento (selecionar conforme o tipo de logo):\nBordado (CAMISA):\n☐ Peito ☐ Costas ☐ Manga ☐ Bolso\n\nSilk/DTF:\n☐ Frente ☐ Costas ☐ Manga ☐ Bolso (☐ Direita ☐ Esquerda)\n\nOutras opções (se aplicável):\n☐ Traseiro ☐ Acima do Bolso ☐ Perna (☐ Lado Direito ☐ Lado Esquerdo)\n☐ Escrita Horizontal ☐ Escrita Vertical\n\nPatch:\n☐ Peito (☐ Direita ☐ Esquerda)\n\nFaixa Refletiva (se aplicável):\n☐ Cintura ☐ Pernas ☐ Manga\nAltura: ___________\n\nAnexos e Informações Adicionais:\n☐ Arte da logo\nMedidas: ____________________\nNome da arte: _________________\n\nDados de Envio:\nPra quem foi enviado? ________________________\nQual meio foi utilizado para o envio?\n☐ WhatsApp ☐ Teams ☐ E-mail\n\n🔸 FINALIZAÇÃO:\n• Conferir todos os dados preenchidos\n• Calcular total geral da compra\n• Obter assinatura do cliente\n• Entregar cópia do pedido ao cliente\n• Arquivar via da empresa"
+    }
+  ]
+}

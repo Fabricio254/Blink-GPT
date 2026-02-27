@@ -264,7 +264,7 @@ def setup_page():
         /* Botões maiores para toque */
         .stButton > button {{
             font-size: 1em !important;
-            padding: 12px 8px !important;
+            padding: 10px 4px !important;
             min-height: 48px;
         }}
 
@@ -275,19 +275,14 @@ def setup_page():
             min-height: 48px;
         }}
 
-        /* Colunas de botão empilhadas no mobile */
-        [data-testid="stHorizontalBlock"] > div {{
-            min-width: 0 !important;
+        /* Esconder subtítulo do banner no mobile */
+        .header-subtitle {{
+            display: none !important;
         }}
 
         /* Fonte dos subtítulos menor no mobile */
         h3 {{ font-size: 1em !important; }}
-        h2 {{ font-size: 1.2em !important; }}
-
-        /* Banner header menor */
-        [data-testid="stMarkdownContainer"] div[style*="gradient"] {{
-            padding: 6px 10px !important;
-        }}
+        h2 {{ font-size: 1.1em !important; }}
     }}
     </style>
     """, unsafe_allow_html=True)
@@ -377,9 +372,9 @@ def main():
     st.markdown(f"""
     <div style="background: linear-gradient(90deg, {COLORS['secondary']} 0%, {COLORS['primary']} 100%); 
                 padding: 8px 16px; border-radius: 6px; margin-bottom: 12px;
-                display: flex; align-items: center; gap: 10px;">
-        <span style="color: white; font-size: 1.1em; font-weight: bold;">🤖 Blink GPT</span>
-        <span style="color: rgba(255,255,255,0.75); font-size: 0.8em;">
+                display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+        <span style="color: white; font-size: 1.1em; font-weight: bold; white-space: nowrap;">🤖 Blink GPT</span>
+        <span class="header-subtitle" style="color: rgba(255,255,255,0.75); font-size: 0.8em;">
             | Sistema de Perguntas e Respostas - Manual de Procedimentos 2024
         </span>
     </div>
@@ -435,20 +430,16 @@ def main():
 
     # Input
     st.subheader("❓ Faça sua Pergunta")
-    col_inp, col_btn, col_clear = st.columns([5, 1, 1])
-
-    with col_inp:
-        user_input = st.text_input(
-            "Clique aqui e digite sua pergunta",
-            placeholder="Ex: Como funciona a forma de pagamento?",
-            key="user_input"
-        )
-
+    user_input = st.text_input(
+        "Clique aqui e digite sua pergunta",
+        placeholder="Ex: Como funciona a forma de pagamento?",
+        key="user_input"
+    )
+    col_btn, col_clear = st.columns(2)
     with col_btn:
         send_button = st.button("📤 Enviar", use_container_width=True)
-
     with col_clear:
-        if st.button("🗑️ Limpar", use_container_width=True):
+        if st.button("🗑️ Limpar Chat", use_container_width=True):
             st.session_state.messages = []
             st.rerun()
 

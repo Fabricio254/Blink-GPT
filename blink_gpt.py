@@ -248,7 +248,14 @@ def create_sidebar(qa_data):
     """Cria sidebar com sugestões"""
     with st.sidebar:
         st.markdown(f"## 🎯 Sugestões de Perguntas")
-        
+
+        # Botão Limpar Chat sempre visível no topo
+        if st.button("🗑️ Limpar Chat", use_container_width=True, key="btn_limpar_topo"):
+            st.session_state.messages = []
+            st.rerun()
+
+        st.divider()
+
         # Busca
         search_text = st.text_input(
             "🔍 Buscar tópico ou pergunta",
@@ -300,11 +307,7 @@ def create_sidebar(qa_data):
         st.divider()
         
         # Ações
-        st.markdown("### 🧹 Ações")
-        if st.button("🗑️ Limpar Chat", use_container_width=True):
-            st.session_state.messages = []
-            st.rerun()
-        
+        st.markdown("### ℹ️ Ajuda")
         if st.button("ℹ️ Ajuda", use_container_width=True):
             st.session_state.show_help = True
         

@@ -372,13 +372,17 @@ def main():
         with col_inp:
             user_input = st.text_input(
                 "Clique aqui e digite sua pergunta",
-                value=st.session_state.user_question,
                 placeholder="Ex: Como funciona a forma de pagamento?",
                 key="user_input"
             )
         
         with col_btn:
             send_button = st.button("📤 Enviar", use_container_width=True)
+        
+        # Se tem pergunta do sidebar, enviar automaticamente
+        if st.session_state.user_question:
+            user_input = st.session_state.user_question
+            send_button = True
         
         # Processar pergunta
         if send_button and user_input.strip():

@@ -395,6 +395,18 @@ def main():
         st.session_state.messages = []
     if 'user_question' not in st.session_state:
         st.session_state.user_question = ""
+    if 'input_key' not in st.session_state:
+        st.session_state.input_key = 0
+    if 'enter_pressed' not in st.session_state:
+        st.session_state.enter_pressed = False
+    if 'input_value' not in st.session_state:
+        st.session_state.input_value = ""
+
+    def on_input_submit():
+        val = st.session_state.get(f"user_input_{st.session_state.input_key}", "")
+        if val.strip():
+            st.session_state.input_value = val
+            st.session_state.enter_pressed = True
 
     # Sugestões visíveis apenas no mobile (expander na área principal)
     st.markdown('<div class="mobile-suggestions">', unsafe_allow_html=True)
@@ -457,7 +469,8 @@ def main():
     user_input = st.text_input(
         "Clique aqui e digite sua pergunta",
         placeholder="Ex: Como funciona a forma de pagamento?",
-        key="user_input"
+        key=f"user_input_{st.session_state.input_key}",
+        on_change=on_input_submit
     )
     col_btn, col_clear = st.columns(2)
     with col_btn:
@@ -466,6 +479,12 @@ def main():
         if st.button("🗑️ Limpar Chat", use_container_width=True):
             st.session_state.messages = []
             st.rerun()
+
+    # Enter pressionado captura o valor do input atual
+    if st.session_state.enter_pressed:
+        user_input = st.session_state.input_value
+        send_button = True
+        st.session_state.enter_pressed = False
 
     # Se tem pergunta do sidebar, enviar automaticamente
     if st.session_state.user_question:
@@ -487,6 +506,7 @@ def main():
         })
 
         st.session_state.user_question = ""
+        st.session_state.input_key += 1  # limpa o campo de texto
         st.rerun()
 
     # Footer

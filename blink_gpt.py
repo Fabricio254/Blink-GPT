@@ -5,6 +5,7 @@ Desenvolvido por Fabrício Zamprogno
 """
 
 import streamlit as st
+import streamlit.components.v1 as components
 import json
 import re
 import unicodedata
@@ -378,6 +379,15 @@ def main():
                     📋 <strong>Tópico:</strong> {msg['source']['topic']}
                     </div>
                     """, unsafe_allow_html=True)
+
+        # Âncora no final do chat + scroll automático
+        st.markdown('<div id="chat-bottom"></div>', unsafe_allow_html=True)
+        components.html("""
+            <script>
+                // Rola até o final do chat na janela pai
+                window.parent.document.getElementById('chat-bottom').scrollIntoView({behavior: 'smooth', block: 'end'});
+            </script>
+        """, height=0)
 
     # Input
     st.subheader("❓ Faça sua Pergunta")

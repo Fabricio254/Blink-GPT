@@ -284,6 +284,13 @@ def setup_page():
         h3 {{ font-size: 1em !important; }}
         h2 {{ font-size: 1.1em !important; }}
     }}
+
+    /* Esconder bloco de sugestões mobile no desktop */
+    @media (min-width: 769px) {{
+        .mobile-suggestions {{
+            display: none !important;
+        }}
+    }}
     </style>
     """, unsafe_allow_html=True)
 
@@ -388,6 +395,23 @@ def main():
         st.session_state.messages = []
     if 'user_question' not in st.session_state:
         st.session_state.user_question = ""
+
+    # Sugestões visíveis apenas no mobile (expander na área principal)
+    st.markdown('<div class="mobile-suggestions">', unsafe_allow_html=True)
+    with st.expander("🎯 Ver Sugestões de Perguntas", expanded=False):
+        search_mobile = st.text_input("🔍 Buscar", placeholder="Digite um tópico...", key="search_mobile").lower()
+        topics = qa_data.get("topics", {})
+        if search_mobile:
+            topics = {t: d for t, d in topics.items()
+                      if search_mobile in normalize_text(t) or
+                      any(search_mobile in normalize_text(q['question']) for q in d.get('questions', []))}
+        for topic, data in topics.items():
+            st.markdown(f"**{topic}**")
+            for q in data.get("questions", [])[:4]:
+                if st.button(f"• {q['question'][:55]}...", key=f"mob_{q['id']}", use_container_width=True):
+                    st.session_state.user_question = q['question']
+                    st.rerun()
+    st.markdown('</div>', unsafe_allow_html=True)
     
     # Área de chat - largura total
 

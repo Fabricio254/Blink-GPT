@@ -1,10 +1,10 @@
-# 🚀 Blink Responde - Streamlit Edition
+# 🚀 Blink GPT - Streamlit Edition
 
 Sistema inteligente de Perguntas e Respostas baseado no Manual de Procedimentos Gerais 2024 da Blink Jeans.
 
 ## 📋 Descrição
 
-**Blink Responde** é um assistente virtual que responde automaticamente a perguntas dos colaboradores da Blink, consultando exclusivamente o Manual de Procedimentos Gerais 2024.
+**Blink GPT** é um assistente virtual inteligente que responde automaticamente a perguntas dos colaboradores da Blink, consultando exclusivamente o Manual de Procedimentos Gerais 2024.
 
 ### Versão: 2.0 (Streamlit + GitHub)
 
@@ -29,8 +29,8 @@ Sistema inteligente de Perguntas e Respostas baseado no Manual de Procedimentos 
 ## 📁 Estrutura do Projeto
 
 ```
-Blink Responde/
-├── app.py                          # App principal Streamlit
+Blink GPT/
+├── blink_gpt.py                    # App principal Streamlit
 ├── requirements.txt                # Dependências Python
 ├── .gitignore                      # Arquivos ignorados pelo Git
 ├── README.md                       # Este arquivo
@@ -68,7 +68,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # 4. Executar aplicação
-streamlit run app.py
+streamlit run blink_gpt.py
 ```
 
 A aplicação abrirá em `http://localhost:8501`

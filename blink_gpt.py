@@ -249,13 +249,6 @@ def create_sidebar(qa_data):
     with st.sidebar:
         st.markdown(f"## 🎯 Sugestões de Perguntas")
 
-        # Botão Limpar Chat sempre visível no topo
-        if st.button("🗑️ Limpar Chat", use_container_width=True, key="btn_limpar_topo"):
-            st.session_state.messages = []
-            st.rerun()
-
-        st.divider()
-
         # Busca
         search_text = st.text_input(
             "🔍 Buscar tópico ou pergunta",
@@ -394,7 +387,7 @@ def main():
 
     # Input
     st.subheader("❓ Faça sua Pergunta")
-    col_inp, col_btn = st.columns([5, 1])
+    col_inp, col_btn, col_clear = st.columns([5, 1, 1])
 
     with col_inp:
         user_input = st.text_input(
@@ -405,6 +398,11 @@ def main():
 
     with col_btn:
         send_button = st.button("📤 Enviar", use_container_width=True)
+
+    with col_clear:
+        if st.button("🗑️ Limpar", use_container_width=True):
+            st.session_state.messages = []
+            st.rerun()
 
     # Se tem pergunta do sidebar, enviar automaticamente
     if st.session_state.user_question:

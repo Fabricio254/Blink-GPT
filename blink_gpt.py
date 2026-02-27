@@ -349,70 +349,71 @@ def main():
         st.session_state.user_question = ""
     
     # Área de chat - largura total
+
     # Histórico de mensagens
-        if st.session_state.messages:
-            st.subheader("💬 Histórico de Conversa")
-            for msg in st.session_state.messages:
-                if msg['role'] == 'user':
-                    st.markdown(f"""
-                    <div style="background-color: {COLORS['secondary']}; color: white; 
-                                padding: 12px; border-radius: 8px; margin: 8px 0;">
-                    <strong>Você:</strong> {msg['content']}
-                    </div>
-                    """, unsafe_allow_html=True)
-                else:
+    if st.session_state.messages:
+        st.subheader("💬 Histórico de Conversa")
+        for msg in st.session_state.messages:
+            if msg['role'] == 'user':
+                st.markdown(f"""
+                <div style="background-color: {COLORS['secondary']}; color: white; 
+                            padding: 12px; border-radius: 8px; margin: 8px 0;">
+                <strong>Você:</strong> {msg['content']}
+                </div>
+                """, unsafe_allow_html=True)
+            else:
+                st.markdown(f"""
+                <div style="background-color: {COLORS['light_bg']}; 
+                            padding: 12px; border-left: 4px solid {COLORS['primary']}; 
+                            border-radius: 8px; margin: 8px 0;">
+                <strong>Assistente:</strong><br>{msg['content']}
+                </div>
+                """, unsafe_allow_html=True)
+                if 'source' in msg and msg['source']:
                     st.markdown(f"""
                     <div style="background-color: {COLORS['light_bg']}; 
-                                padding: 12px; border-left: 4px solid {COLORS['primary']}; 
-                                border-radius: 8px; margin: 8px 0;">
-                    <strong>Assistente:</strong><br>{msg['content']}
+                                border-left: 4px solid {COLORS['secondary']}; 
+                                padding: 8px; border-radius: 8px; font-size: 0.9em; margin: 4px 0;">
+                    📋 <strong>Tópico:</strong> {msg['source']['topic']}
                     </div>
                     """, unsafe_allow_html=True)
-                    if 'source' in msg and msg['source']:
-                        st.markdown(f"""
-                        <div style="background-color: {COLORS['light_bg']}; 
-                                    border-left: 4px solid {COLORS['secondary']}; 
-                                    padding: 8px; border-radius: 8px; font-size: 0.9em; margin: 4px 0;">
-                        📋 <strong>Tópico:</strong> {msg['source']['topic']}
-                        </div>
-                        """, unsafe_allow_html=True)
-        
-        # Input
-        st.subheader("❓ Faça sua Pergunta")
-        col_inp, col_btn = st.columns([5, 1])
-        
-        with col_inp:
-            user_input = st.text_input(
-                "Clique aqui e digite sua pergunta",
-                placeholder="Ex: Como funciona a forma de pagamento?",
-                key="user_input"
-            )
-        
-        with col_btn:
-            send_button = st.button("📤 Enviar", use_container_width=True)
-        
-        # Se tem pergunta do sidebar, enviar automaticamente
-        if st.session_state.user_question:
-            user_input = st.session_state.user_question
-            send_button = True
-        
-        # Processar pergunta
-        if send_button and user_input.strip():
-            st.session_state.messages.append({"role": "user", "content": user_input})
-            
-            # Buscar resposta
-            answer, sources = ask_question(user_input, qa_data)
-            
-            source_info = sources[0] if sources else None
-            st.session_state.messages.append({
-                "role": "assistant",
-                "content": answer,
-                "source": source_info
-            })
-            
-            st.session_state.user_question = ""
-            st.rerun()
-    
+
+    # Input
+    st.subheader("❓ Faça sua Pergunta")
+    col_inp, col_btn = st.columns([5, 1])
+
+    with col_inp:
+        user_input = st.text_input(
+            "Clique aqui e digite sua pergunta",
+            placeholder="Ex: Como funciona a forma de pagamento?",
+            key="user_input"
+        )
+
+    with col_btn:
+        send_button = st.button("📤 Enviar", use_container_width=True)
+
+    # Se tem pergunta do sidebar, enviar automaticamente
+    if st.session_state.user_question:
+        user_input = st.session_state.user_question
+        send_button = True
+
+    # Processar pergunta
+    if send_button and user_input.strip():
+        st.session_state.messages.append({"role": "user", "content": user_input})
+
+        # Buscar resposta
+        answer, sources = ask_question(user_input, qa_data)
+
+        source_info = sources[0] if sources else None
+        st.session_state.messages.append({
+            "role": "assistant",
+            "content": answer,
+            "source": source_info
+        })
+
+        st.session_state.user_question = ""
+        st.rerun()
+
     # Footer
     st.divider()
     st.markdown(f"""

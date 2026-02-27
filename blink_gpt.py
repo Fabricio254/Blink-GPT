@@ -295,6 +295,27 @@ def create_sidebar(qa_data):
         </small>
         </div>
         """, unsafe_allow_html=True)
+        
+        st.divider()
+        
+        # Ações
+        st.markdown("### 🧹 Ações")
+        if st.button("🗑️ Limpar Chat", use_container_width=True):
+            st.session_state.messages = []
+            st.rerun()
+        
+        if st.button("ℹ️ Ajuda", use_container_width=True):
+            st.session_state.show_help = True
+        
+        # Dica
+        st.markdown(f"""
+        <div style="background-color: {COLORS['primary']}; color: white; 
+                    padding: 14px; border-radius: 8px; margin-top: 12px;">
+        <strong>💡 Dica</strong><br>
+        <small>Use as sugestões acima para explorar <strong>{qa_data.get('total_questions', 0)}</strong> 
+        perguntas pré-organizadas. É mais rápido! 🚀</small>
+        </div>
+        """, unsafe_allow_html=True)
 
 def main():
     """Função principal"""
@@ -308,21 +329,15 @@ def main():
         return
     
     # Header
-    col1, col2 = st.columns([3, 1])
-    with col1:
-        st.markdown(f"""
-        <div style="background: linear-gradient(90deg, {COLORS['secondary']} 0%, {COLORS['primary']} 100%); 
-                    padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-            <h1 style="color: white; margin: 0;">🤖 Blink GPT</h1>
-            <p style="color: white; margin: 5px 0; font-size: 0.95em;">
-                Sistema de Perguntas e Respostas - Manual de Procedimentos 2024
-            </p>
-        </div>
-        """, unsafe_allow_html=True)
-    
-    with col2:
-        if st.button("ℹ️ Ajuda", use_container_width=True):
-            st.session_state.show_help = True
+    st.markdown(f"""
+    <div style="background: linear-gradient(90deg, {COLORS['secondary']} 0%, {COLORS['primary']} 100%); 
+                padding: 20px; border-radius: 8px; margin-bottom: 20px;">
+        <h1 style="color: white; margin: 0;">🤖 Blink GPT</h1>
+        <p style="color: white; margin: 5px 0; font-size: 0.95em;">
+            Sistema de Perguntas e Respostas - Manual de Procedimentos 2024
+        </p>
+    </div>
+    """, unsafe_allow_html=True)
     
     # Sidebar
     create_sidebar(qa_data)
@@ -333,11 +348,8 @@ def main():
     if 'user_question' not in st.session_state:
         st.session_state.user_question = ""
     
-    # Área de chat
-    col1, col2 = st.columns([3, 1], gap="small")
-    
-    with col1:
-        # Histórico de mensagens
+    # Área de chat - largura total
+    # Histórico de mensagens
         if st.session_state.messages:
             st.subheader("💬 Histórico de Conversa")
             for msg in st.session_state.messages:
@@ -400,22 +412,6 @@ def main():
             
             st.session_state.user_question = ""
             st.rerun()
-    
-    with col2:
-        st.subheader("🧹 Ações")
-        if st.button("🗑️ Limpar Chat", use_container_width=True):
-            st.session_state.messages = []
-            st.rerun()
-        
-        # Info box
-        st.markdown(f"""
-        <div style="background-color: {COLORS['primary']}; color: white; 
-                    padding: 16px; border-radius: 8px; margin-top: 20px;">
-        <h4 style="margin-top: 0;">💡 Dica</h4>
-        <small>Use o painel lateral para explorar <strong>{qa_data.get('total_questions', 0)}</strong> 
-        perguntas pré-organizadas. É mais rápido! 🚀</small>
-        </div>
-        """, unsafe_allow_html=True)
     
     # Footer
     st.divider()

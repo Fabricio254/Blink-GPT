@@ -331,11 +331,12 @@ def main():
     # Header
     st.markdown(f"""
     <div style="background: linear-gradient(90deg, {COLORS['secondary']} 0%, {COLORS['primary']} 100%); 
-                padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-        <h1 style="color: white; margin: 0;">🤖 Blink GPT</h1>
-        <p style="color: white; margin: 5px 0; font-size: 0.95em;">
-            Sistema de Perguntas e Respostas - Manual de Procedimentos 2024
-        </p>
+                padding: 8px 16px; border-radius: 6px; margin-bottom: 12px;
+                display: flex; align-items: center; gap: 10px;">
+        <span style="color: white; font-size: 1.1em; font-weight: bold;">🤖 Blink GPT</span>
+        <span style="color: rgba(255,255,255,0.75); font-size: 0.8em;">
+            | Sistema de Perguntas e Respostas - Manual de Procedimentos 2024
+        </span>
     </div>
     """, unsafe_allow_html=True)
     

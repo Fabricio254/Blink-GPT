@@ -144,6 +144,19 @@ def setup_page():
         background-color: {COLORS['light_bg']};
         border-right: 3px solid {COLORS['primary']};
     }}
+
+    /* Forçar sidebar sempre visível no desktop */
+    @media (min-width: 769px) {{
+        section[data-testid="stSidebar"] {{
+            transform: translateX(0) !important;
+            display: flex !important;
+            min-width: 21rem !important;
+        }}
+        /* Esconder botão de fechar sidebar no desktop */
+        [data-testid="stSidebarCollapseButton"] {{
+            display: none !important;
+        }}
+    }}
     
     /* Botões com cores Blink */
     .stButton > button {{

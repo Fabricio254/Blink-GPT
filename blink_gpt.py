@@ -370,6 +370,9 @@ def main():
         st.error("❌ Falha ao carregar dados. Verifique se o arquivo data/qa_data.json existe.")
         return
     
+    # Sidebar PRIMEIRO (antes de qualquer conteúdo principal)
+    create_sidebar(qa_data)
+
     # Header
     st.markdown(f"""
     <div style="background: linear-gradient(90deg, {COLORS['secondary']} 0%, {COLORS['primary']} 100%); 
@@ -381,10 +384,7 @@ def main():
         </span>
     </div>
     """, unsafe_allow_html=True)
-    
-    # Sidebar
-    create_sidebar(qa_data)
-    
+
     # Inicializar session state
     if 'messages' not in st.session_state:
         st.session_state.messages = []

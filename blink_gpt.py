@@ -119,7 +119,7 @@ def setup_page():
         page_title="Blink GPT",
         page_icon="🤖",
         layout="wide",
-        initial_sidebar_state="auto"
+        initial_sidebar_state="expanded"
     )
     
     # CSS customizado com cores da Blink
@@ -285,9 +285,9 @@ def setup_page():
         h2 {{ font-size: 1.1em !important; }}
     }}
 
-    /* Esconder bloco de sugestões mobile no desktop */
+    /* Esconder expander de sugestões no desktop (só aparece no mobile) */
     @media (min-width: 769px) {{
-        .mobile-suggestions {{
+        [data-testid="stMain"] [data-testid="stExpander"] {{
             display: none !important;
         }}
     }}
@@ -409,7 +409,6 @@ def main():
             st.session_state.enter_pressed = True
 
     # Sugestões visíveis apenas no mobile (expander na área principal)
-    st.markdown('<div class="mobile-suggestions">', unsafe_allow_html=True)
     with st.expander("🎯 Ver Sugestões de Perguntas", expanded=False):
         search_mobile = st.text_input("🔍 Buscar", placeholder="Digite um tópico...", key="search_mobile").lower()
         topics = qa_data.get("topics", {})
@@ -423,8 +422,7 @@ def main():
                 if st.button(f"• {q['question'][:55]}...", key=f"mob_{q['id']}", use_container_width=True):
                     st.session_state.user_question = q['question']
                     st.rerun()
-    st.markdown('</div>', unsafe_allow_html=True)
-    
+
     # Área de chat - largura total
 
     # Histórico de mensagens

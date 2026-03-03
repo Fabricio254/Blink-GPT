@@ -285,12 +285,7 @@ def setup_page():
         h2 {{ font-size: 1.1em !important; }}
     }}
 
-    /* Esconder expander de sugestões no desktop (só aparece no mobile) */
-    @media (min-width: 769px) {{
-        [data-testid="stMain"] [data-testid="stExpander"] {{
-            display: none !important;
-        }}
-    }}
+
     </style>
     """, unsafe_allow_html=True)
 
